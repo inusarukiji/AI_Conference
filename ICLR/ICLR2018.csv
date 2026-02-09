@@ -1,0 +1,993 @@
+﻿Index,Title,Session/Area,Authors,Affiliation,Status,OpenReview URL,PDF URL
+1,Certifying Some Distributional Robustness with Principled Adversarial Training,,Aman Sinha;Hongseok Namkoong;John Duchi,,Oral,https://openreview.net/forum?id=Hk6kPgZA-,https://openreview.net/pdf?id=Hk6kPgZA-
+2,Learning Deep Mean Field Games for Modeling Large Population Behavior,,Jiachen Yang;Xiaojing Ye;Rakshit Trivedi;Huan Xu;Hongyuan Zha,,Oral,https://openreview.net/forum?id=HktK4BeCZ,https://openreview.net/pdf?id=HktK4BeCZ
+3,Emergence of grid-like representations by training recurrent neural networks to perform spatial localization,,Christopher J. Cueva;Xue-Xin Wei,,Poster,https://openreview.net/forum?id=B17JTOe0-,https://openreview.net/pdf?id=B17JTOe0-
+4,i-RevNet: Deep Invertible Networks,,Jörn-Henrik Jacobsen;Arnold W.M. Smeulders;Edouard Oyallon,,Poster,https://openreview.net/forum?id=HJsjkMb0Z,https://openreview.net/pdf?id=HJsjkMb0Z
+5,Multi-Scale Dense Networks for Resource Efficient Image Classification,,Gao Huang;Danlu Chen;Tianhong Li;Felix Wu;Laurens van der Maaten;Kilian Weinberger,,Oral,https://openreview.net/forum?id=Hk2aImxAb,https://openreview.net/pdf?id=Hk2aImxAb
+6,On the Convergence of Adam and Beyond,,Sashank J. Reddi;Satyen Kale;Sanjiv Kumar,,Oral,https://openreview.net/forum?id=ryQu7f-RZ,https://openreview.net/pdf?id=ryQu7f-RZ
+7,Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection,,Bo Zong;Qi Song;Martin Renqiang Min;Wei Cheng;Cristian Lumezanu;Daeki Cho;Haifeng Chen,,Poster,https://openreview.net/forum?id=BJJLHbb0-,https://openreview.net/pdf?id=BJJLHbb0-
+8,Can recurrent neural networks warp time?,,Corentin Tallec;Yann Ollivier,,Poster,https://openreview.net/forum?id=SJcKhk-Ab,https://openreview.net/pdf?id=SJcKhk-Ab
+9,Learning to Represent Programs with Graphs,,Miltiadis Allamanis;Marc Brockschmidt;Mahmoud Khademi,,Oral,https://openreview.net/forum?id=BJOFETxR-,https://openreview.net/pdf?id=BJOFETxR-
+10,Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions,,Nadav Cohen;Ronen Tamari;Amnon Shashua,,Oral,https://openreview.net/forum?id=S1JHhv6TW,https://openreview.net/pdf?id=S1JHhv6TW
+11,Spherical CNNs,,Taco S. Cohen;Mario Geiger;Jonas Köhler;Max Welling,,Oral,https://openreview.net/forum?id=Hkbd5xZRb,https://openreview.net/pdf?id=Hkbd5xZRb
+12,Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments,,Maruan Al-Shedivat;Trapit Bansal;Yura Burda;Ilya Sutskever;Igor Mordatch;Pieter Abbeel,,Oral,https://openreview.net/forum?id=Sk2u1g-0-,https://openreview.net/pdf?id=Sk2u1g-0-
+13,Wasserstein Auto-Encoders,,Ilya Tolstikhin;Olivier Bousquet;Sylvain Gelly;Bernhard Schoelkopf,,Oral,https://openreview.net/forum?id=HkL7n1-0b,https://openreview.net/pdf?id=HkL7n1-0b
+14,Spatially Transformed Adversarial Examples,,Chaowei Xiao;Jun-Yan Zhu;Bo Li;Warren He;Mingyan Liu;Dawn Song,,Poster,https://openreview.net/forum?id=HyydRMZC-,https://openreview.net/pdf?id=HyydRMZC-
+15,Simulating Action Dynamics with Neural Process Networks,,Antoine Bosselut;Omer Levy;Ari Holtzman;Corin Ennis;Dieter Fox;Yejin Choi,,Poster,https://openreview.net/forum?id=rJYFzMZC-,https://openreview.net/pdf?id=rJYFzMZC-
+16,Zero-Shot Visual Imitation,,Deepak Pathak;Parsa Mahmoudieh;Guanghao Luo;Pulkit Agrawal;Dian Chen;Yide Shentu;Evan Shelhamer;Jitendra Malik;Alexei A. Efros;Trevor Darrell,,Oral,https://openreview.net/forum?id=BkisuzWRW,https://openreview.net/pdf?id=BkisuzWRW
+17,When is a Convolutional Filter Easy to Learn?,,Simon S. Du;Jason D. Lee;Yuandong Tian,,Poster,https://openreview.net/forum?id=SkA-IE06W,https://openreview.net/pdf?id=SkA-IE06W
+18,Neural Map: Structured Memory for Deep Reinforcement Learning,,Emilio Parisotto;Ruslan Salakhutdinov,,Poster,https://openreview.net/forum?id=Bk9zbyZCZ,https://openreview.net/pdf?id=Bk9zbyZCZ
+19,Unsupervised Machine Translation Using Monolingual Corpora Only,,Guillaume Lample;Alexis Conneau;Ludovic Denoyer;Marc'Aurelio Ranzato,,Poster,https://openreview.net/forum?id=rkYTTf-AZ,https://openreview.net/pdf?id=rkYTTf-AZ
+20,Breaking the Softmax Bottleneck: A High-Rank RNN Language Model,,Zhilin Yang;Zihang Dai;Ruslan Salakhutdinov;William W. Cohen,,Oral,https://openreview.net/forum?id=HkwZSG-CZ,https://openreview.net/pdf?id=HkwZSG-CZ
+21,Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent,,Zhilin Yang;Saizheng Zhang;Jack Urbanek;Will Feng;Alexander Miller;Arthur Szlam;Douwe Kiela;Jason Weston,,Poster,https://openreview.net/forum?id=SJ-C6JbRW,https://openreview.net/pdf?id=SJ-C6JbRW
+22,AmbientGAN: Generative models from lossy measurements,,Ashish Bora;Eric Price;Alexandros G. Dimakis,,Oral,https://openreview.net/forum?id=Hy7fDog0b,https://openreview.net/pdf?id=Hy7fDog0b
+23,Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy,,Asit Mishra;Debbie Marr,,Poster,https://openreview.net/forum?id=B1ae1lZRb,https://openreview.net/pdf?id=B1ae1lZRb
+24,Eigenoption Discovery through the Deep Successor Representation,,Marlos C. Machado;Clemens Rosenbaum;Xiaoxiao Guo;Miao Liu;Gerald Tesauro;Murray Campbell,,Poster,https://openreview.net/forum?id=Bk8ZcAxR-,https://openreview.net/pdf?id=Bk8ZcAxR-
+25,FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension,,Hsin-Yuan Huang;Chenguang Zhu;Yelong Shen;Weizhu Chen,,Poster,https://openreview.net/forum?id=BJIgi_eCZ,https://openreview.net/pdf?id=BJIgi_eCZ
+26,Generating Wikipedia by Summarizing Long Sequences,,Peter J. Liu*;Mohammad Saleh*;Etienne Pot;Ben Goodrich;Ryan Sepassi;Lukasz Kaiser;Noam Shazeer,,Poster,https://openreview.net/forum?id=Hyg0vbWC-,https://openreview.net/pdf?id=Hyg0vbWC-
+27,On the insufficiency of existing momentum schemes for Stochastic Optimization,,Rahul Kidambi;Praneeth Netrapalli;Prateek Jain;Sham M. Kakade,,Oral,https://openreview.net/forum?id=rJTutzbA-,https://openreview.net/pdf?id=rJTutzbA-
+28,Relational Neural Expectation Maximization: Unsupervised Discovery of Objects and their Interactions,,Sjoerd van Steenkiste;Michael Chang;Klaus Greff;Jürgen Schmidhuber,,Poster,https://openreview.net/forum?id=ryH20GbRW,https://openreview.net/pdf?id=ryH20GbRW
+29,Synthetic and Natural Noise Both Break Neural Machine Translation,,Yonatan Belinkov;Yonatan Bisk,,Oral,https://openreview.net/forum?id=BJ8vJebC-,https://openreview.net/pdf?id=BJ8vJebC-
+30,A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks,,Behnam Neyshabur;Srinadh Bhojanapalli;Nathan Srebro,,Poster,https://openreview.net/forum?id=Skz_WfbCZ,https://openreview.net/pdf?id=Skz_WfbCZ
+31,Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models,,Wieland Brendel *;Jonas Rauber *;Matthias Bethge,,Poster,https://openreview.net/forum?id=SyZI0GWCZ,https://openreview.net/pdf?id=SyZI0GWCZ
+32,Distributed Prioritized Experience Replay,,Dan Horgan;John Quan;David Budden;Gabriel Barth-Maron;Matteo Hessel;Hado van Hasselt;David Silver,,Poster,https://openreview.net/forum?id=H1Dy---0Z,https://openreview.net/pdf?id=H1Dy---0Z
+33,Efficient Sparse-Winograd Convolutional Neural Networks,,Xingyu Liu;Jeff Pool;Song Han;William J. Dally,,Poster,https://openreview.net/forum?id=HJzgZ3JCW,https://openreview.net/pdf?id=HJzgZ3JCW
+34,Learning how to explain neural networks: PatternNet and PatternAttribution,,Pieter-Jan Kindermans;Kristof T. Schütt;Maximilian Alber;Klaus-Robert Müller;Dumitru Erhan;Been Kim;Sven Dähne,,Poster,https://openreview.net/forum?id=Hkn7CBaTW,https://openreview.net/pdf?id=Hkn7CBaTW
+35,Learning to Teach,,Yang Fan;Fei Tian;Tao Qin;Xiang-Yang Li;Tie-Yan Liu,,Poster,https://openreview.net/forum?id=HJewuJWCZ,https://openreview.net/pdf?id=HJewuJWCZ
+36,Neural Language Modeling by Jointly Learning Syntax and Lexicon,,Yikang Shen;Zhouhan Lin;Chin-wei Huang;Aaron Courville,,Poster,https://openreview.net/forum?id=rkgOLb-0W,https://openreview.net/pdf?id=rkgOLb-0W
+37,Polar Transformer Networks,,Carlos Esteves;Christine Allen-Blanchette;Xiaowei Zhou;Kostas Daniilidis,,Poster,https://openreview.net/forum?id=HktRlUlAZ,https://openreview.net/pdf?id=HktRlUlAZ
+38,Training and Inference with Integers in Deep Neural Networks,,Shuang Wu;Guoqi Li;Feng Chen;Luping Shi,,Oral,https://openreview.net/forum?id=HJGXzmspb,https://openreview.net/pdf?id=HJGXzmspb
+39,A DIRT-T Approach to Unsupervised Domain Adaptation,,Rui Shu;Hung Bui;Hirokazu Narui;Stefano Ermon,,Poster,https://openreview.net/forum?id=H1q-TM-AW,https://openreview.net/pdf?id=H1q-TM-AW
+40,Alternating Multi-bit Quantization for Recurrent Neural Networks,,Chen Xu;Jianqiang Yao;Zhouchen Lin;Wenwu Ou;Yuanbin Cao;Zhirong Wang;Hongbin Zha,,Poster,https://openreview.net/forum?id=S19dR9x0b,https://openreview.net/pdf?id=S19dR9x0b
+41,Learning Differentially Private Recurrent Language Models,,H. Brendan McMahan;Daniel Ramage;Kunal Talwar;Li Zhang,,Poster,https://openreview.net/forum?id=BJ0hF1Z0b,https://openreview.net/pdf?id=BJ0hF1Z0b
+42,SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data,,Alon Brutzkus;Amir Globerson;Eran Malach;Shai Shalev-Shwartz,,Poster,https://openreview.net/forum?id=rJ33wwxRb,https://openreview.net/pdf?id=rJ33wwxRb
+43,Skip Connections Eliminate Singularities,,Emin Orhan;Xaq Pitkow,,Poster,https://openreview.net/forum?id=HkwBEMWCZ,https://openreview.net/pdf?id=HkwBEMWCZ
+44,CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training,,Murat Kocaoglu;Christopher Snyder;Alexandros G. Dimakis;Sriram Vishwanath,,Poster,https://openreview.net/forum?id=BJE-4xW0W,https://openreview.net/pdf?id=BJE-4xW0W
+45,Learning One-hidden-layer Neural Networks with Landscape Design,,Rong Ge;Jason D. Lee;Tengyu Ma,,Poster,https://openreview.net/forum?id=BkwHObbRZ,https://openreview.net/pdf?id=BkwHObbRZ
+46,Neural Sketch Learning for Conditional Program Generation,,Vijayaraghavan Murali;Letao Qi;Swarat Chaudhuri;Chris Jermaine,,Oral,https://openreview.net/forum?id=HkfXMz-Ab,https://openreview.net/pdf?id=HkfXMz-Ab
+47,Neural Speed Reading via Skim-RNN,,Minjoon Seo;Sewon Min;Ali Farhadi;Hannaneh Hajishirzi,,Poster,https://openreview.net/forum?id=Sy-dQG-Rb,https://openreview.net/pdf?id=Sy-dQG-Rb
+48,Spectral Normalization for Generative Adversarial Networks,,Takeru Miyato;Toshiki Kataoka;Masanori Koyama;Yuichi Yoshida,,Oral,https://openreview.net/forum?id=B1QRgziT-,https://openreview.net/pdf?id=B1QRgziT-
+49,Unsupervised Cipher Cracking Using Discrete GANs,,Aidan N. Gomez;Sicong Huang;Ivan Zhang;Bryan M. Li;Muhammad Osama;Lukasz Kaiser,,Poster,https://openreview.net/forum?id=BkeqO7x0-,https://openreview.net/pdf?id=BkeqO7x0-
+50,Modular Continual Learning in a Unified Visual Environment,,Kevin T. Feigelis;Blue Sheffer;Daniel L. K. Yamins,,Poster,https://openreview.net/forum?id=rkPLzgZAZ,https://openreview.net/pdf?id=rkPLzgZAZ
+51,Generalizing Across Domains via Cross-Gradient Training,,Shiv Shankar*;Vihari Piratla*;Soumen Chakrabarti;Siddhartha Chaudhuri;Preethi Jyothi;Sunita Sarawagi,,Poster,https://openreview.net/forum?id=r1Dx7fbCW,https://openreview.net/pdf?id=r1Dx7fbCW
+52,Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation,,Pietro Morerio;Jacopo Cavazza;Vittorio Murino,,Poster,https://openreview.net/forum?id=rJWechg0Z,https://openreview.net/pdf?id=rJWechg0Z
+53,Variational image compression with a scale hyperprior,,Johannes Ballé;David Minnen;Saurabh Singh;Sung Jin Hwang;Nick Johnston,,Poster,https://openreview.net/forum?id=rkcQFMZRb,https://openreview.net/pdf?id=rkcQFMZRb
+54,Active Neural Localization,,Devendra Singh Chaplot;Emilio Parisotto;Ruslan Salakhutdinov,,Poster,https://openreview.net/forum?id=ry6-G_66b,https://openreview.net/pdf?id=ry6-G_66b
+55,An image representation based convolutional network for DNA classification,,Bojian Yin;Marleen Balvert;Davide Zambrano;Alexander Schoenhuth;Sander Bohte,,Poster,https://openreview.net/forum?id=HJvvRoe0W,https://openreview.net/pdf?id=HJvvRoe0W
+56,Detecting Statistical Interactions from Neural Network Weights,,Michael Tsang;Dehua Cheng;Yan Liu,,Poster,https://openreview.net/forum?id=ByOfBggRZ,https://openreview.net/pdf?id=ByOfBggRZ
+57,Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input,,Angeliki Lazaridou;Karl Moritz Hermann;Karl Tuyls;Stephen Clark,,Oral,https://openreview.net/forum?id=HJGv1Z-AW,https://openreview.net/pdf?id=HJGv1Z-AW
+58,Learning an Embedding Space for Transferable Robot Skills,,Karol Hausman;Jost Tobias Springenberg;Ziyu Wang;Nicolas Heess;Martin Riedmiller,,Poster,https://openreview.net/forum?id=rk07ZXZRb,https://openreview.net/pdf?id=rk07ZXZRb
+59,Learning to cluster in order to transfer across domains and tasks,,Yen-Chang Hsu;Zhaoyang Lv;Zsolt Kira,,Poster,https://openreview.net/forum?id=ByRWCqvT-,https://openreview.net/pdf?id=ByRWCqvT-
+60,Monotonic Chunkwise Attention,,Chung-Cheng Chiu*;Colin Raffel*,,Poster,https://openreview.net/forum?id=Hko85plCW,https://openreview.net/pdf?id=Hko85plCW
+61,Regularizing and Optimizing LSTM Language Models,,Stephen Merity;Nitish Shirish Keskar;Richard Socher,,Poster,https://openreview.net/forum?id=SyyGPP0TZ,https://openreview.net/pdf?id=SyyGPP0TZ
+62,Smooth Loss Functions for Deep Top-k Classification,,Leonard Berrada;Andrew Zisserman;M. Pawan Kumar,,Poster,https://openreview.net/forum?id=Hk5elxbRW,https://openreview.net/pdf?id=Hk5elxbRW
+63,Stochastic Variational Video Prediction,,Mohammad Babaeizadeh;Chelsea Finn;Dumitru Erhan;Roy H. Campbell;Sergey Levine,,Poster,https://openreview.net/forum?id=rk49Mg-CW,https://openreview.net/pdf?id=rk49Mg-CW
+64,Temporally Efficient Deep Learning with Spikes,,Peter O'Connor;Efstratios Gavves;Matthias Reisser;Max Welling,,Poster,https://openreview.net/forum?id=HkZy-bW0-,https://openreview.net/pdf?id=HkZy-bW0-
+65,Unbiased Online Recurrent Optimization,,Corentin Tallec;Yann Ollivier,,Poster,https://openreview.net/forum?id=rJQDjk-0b,https://openreview.net/pdf?id=rJQDjk-0b
+66,A Deep Reinforced Model for Abstractive Summarization,,Romain Paulus;Caiming Xiong;Richard Socher,,Poster,https://openreview.net/forum?id=HkAClQgA-,https://openreview.net/pdf?id=HkAClQgA-
+67,A Neural Representation of Sketch Drawings,,David Ha;Douglas Eck,,Poster,https://openreview.net/forum?id=Hy6GHpkCW,https://openreview.net/pdf?id=Hy6GHpkCW
+68,A Scalable Laplace Approximation for Neural Networks,,Hippolyt Ritter;Aleksandar Botev;David Barber,,Poster,https://openreview.net/forum?id=Skdvd2xAZ,https://openreview.net/pdf?id=Skdvd2xAZ
+69,Ask the Right Questions: Active Question Reformulation with Reinforcement Learning,,Christian Buck;Jannis Bulian;Massimiliano Ciaramita;Wojciech Gajewski;Andrea Gesmundo;Neil Houlsby;Wei Wang.,,Oral,https://openreview.net/forum?id=S1CChZ-CZ,https://openreview.net/pdf?id=S1CChZ-CZ
+70,Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling,,Tao Shen;Tianyi Zhou;Guodong Long;Jing Jiang;Chengqi Zhang,,Poster,https://openreview.net/forum?id=H1cWzoxA-,https://openreview.net/pdf?id=H1cWzoxA-
+71,Compressing Word Embeddings via Deep Compositional Code Learning,,Raphael Shu;Hideki Nakayama,,Poster,https://openreview.net/forum?id=BJRZzFlRb,https://openreview.net/pdf?id=BJRZzFlRb
+72,Few-Shot Learning with Graph Neural Networks,,Victor Garcia Satorras;Joan Bruna Estrach,,Poster,https://openreview.net/forum?id=BJj6qGbRW,https://openreview.net/pdf?id=BJj6qGbRW
+73,Generative networks as inverse problems with Scattering transforms,,Tomás Angles;Stéphane Mallat,,Poster,https://openreview.net/forum?id=r1NYjfbR-,https://openreview.net/pdf?id=r1NYjfbR-
+74,HexaConv,,Emiel Hoogeboom;Jorn W.T. Peters;Taco S. Cohen;Max Welling,,Poster,https://openreview.net/forum?id=r1vuQG-CW,https://openreview.net/pdf?id=r1vuQG-CW
+75,Hyperparameter optimization: a spectral approach,,Elad Hazan;Adam Klivans;Yang Yuan,,Poster,https://openreview.net/forum?id=H1zriGeCZ,https://openreview.net/pdf?id=H1zriGeCZ
+76,Learning Approximate Inference Networks for Structured Prediction,,Lifu Tu;Kevin Gimpel,,Poster,https://openreview.net/forum?id=H1WgVz-AZ,https://openreview.net/pdf?id=H1WgVz-AZ
+77,Learning from Between-class Examples for Deep Sound Recognition,,Yuji Tokozume;Yoshitaka Ushiku;Tatsuya Harada,,Poster,https://openreview.net/forum?id=B1Gi6LeRZ,https://openreview.net/pdf?id=B1Gi6LeRZ
+78,LEARNING TO SHARE: SIMULTANEOUS PARAMETER TYING AND SPARSIFICATION IN DEEP LEARNING,,Dejiao Zhang;Haozhu Wang;Mario Figueiredo;Laura Balzano,,Poster,https://openreview.net/forum?id=rypT3fb0b,https://openreview.net/pdf?id=rypT3fb0b
+79,MaskGAN: Better Text Generation via Filling in the _______,,William Fedus;Ian Goodfellow;Andrew M. Dai,,Poster,https://openreview.net/forum?id=ByOExmWAb,https://openreview.net/pdf?id=ByOExmWAb
+80,PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples,,Yang Song;Taesup Kim;Sebastian Nowozin;Stefano Ermon;Nate Kushman,,Poster,https://openreview.net/forum?id=rJUYGxbCW,https://openreview.net/pdf?id=rJUYGxbCW
+81,Self-ensembling for visual domain adaptation,,Geoff French;Michal Mackiewicz;Mark Fisher,,Poster,https://openreview.net/forum?id=rkpoTaxA-,https://openreview.net/pdf?id=rkpoTaxA-
+82,TD or not TD: Analyzing the Role of Temporal Differencing in Deep Reinforcement Learning,,Artemij Amiranashvili;Alexey Dosovitskiy;Vladlen Koltun;Thomas Brox,,Poster,https://openreview.net/forum?id=HyiAuyb0b,https://openreview.net/pdf?id=HyiAuyb0b
+83,Towards Image Understanding from Deep Compression Without Decoding,,Robert Torfason;Fabian Mentzer;Eirikur Agustsson;Michael Tschannen;Radu Timofte;Luc Van Gool,,Poster,https://openreview.net/forum?id=HkXWCMbRW,https://openreview.net/pdf?id=HkXWCMbRW
+84,Training GANs with Optimism,,Constantinos Daskalakis;Andrew Ilyas;Vasilis Syrgkanis;Haoyang Zeng,,Poster,https://openreview.net/forum?id=SJJySbbAZ,https://openreview.net/pdf?id=SJJySbbAZ
+85,Twin Networks: Matching the Future for Sequence Generation,,Dmitriy Serdyuk;Nan Rosemary Ke;Alessandro Sordoni;Adam Trischler;Chris Pal;Yoshua Bengio,,Poster,https://openreview.net/forum?id=BydLzGb0Z,https://openreview.net/pdf?id=BydLzGb0Z
+86,Variational Network Quantization,,Jan Achterhold;Jan Mathias Koehler;Anke Schmeink;Tim Genewein,,Poster,https://openreview.net/forum?id=ry-TW-WAb,https://openreview.net/pdf?id=ry-TW-WAb
+87,Active Learning for Convolutional Neural Networks: A Core-Set Approach,,Ozan Sener;Silvio Savarese,,Poster,https://openreview.net/forum?id=H1aIuk-RW,https://openreview.net/pdf?id=H1aIuk-RW
+88,Certified Defenses against Adversarial Examples,,Aditi Raghunathan;Jacob Steinhardt;Percy Liang,,Poster,https://openreview.net/forum?id=Bys4ob-Rb,https://openreview.net/pdf?id=Bys4ob-Rb
+89,Deep Learning as a Mixed Convex-Combinatorial Optimization Problem,,Abram L. Friesen;Pedro Domingos,,Poster,https://openreview.net/forum?id=B1Lc-Gb0Z,https://openreview.net/pdf?id=B1Lc-Gb0Z
+90,Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks,,Jinsung Yoon;William R. Zame;Mihaela van der Schaar,,Poster,https://openreview.net/forum?id=r1SnX5xCb,https://openreview.net/pdf?id=r1SnX5xCb
+91,"Emergent Communication in a Multi-Modal, Multi-Step Referential Game",,Katrina Evtimova;Andrew Drozdov;Douwe Kiela;Kyunghyun Cho,,Poster,https://openreview.net/forum?id=rJGZq6g0-,https://openreview.net/pdf?id=rJGZq6g0-
+92,Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play,,Sainbayar Sukhbaatar;Zeming Lin;Ilya Kostrikov;Gabriel Synnaeve;Arthur Szlam;Rob Fergus,,Poster,https://openreview.net/forum?id=SkT5Yg-RZ,https://openreview.net/pdf?id=SkT5Yg-RZ
+93,Model compression via distillation and quantization,,Antonio Polino;Razvan Pascanu;Dan Alistarh,,Poster,https://openreview.net/forum?id=S1XolQbRW,https://openreview.net/pdf?id=S1XolQbRW
+94,Multi-level Residual Networks from Dynamical Systems View,,Bo Chang;Lili Meng;Eldad Haber;Frederick Tung;David Begert,,Poster,https://openreview.net/forum?id=SyJS-OgR-,https://openreview.net/pdf?id=SyJS-OgR-
+95,Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation,,Xu He;Herbert Jaeger,,Poster,https://openreview.net/forum?id=B1al7jg0b,https://openreview.net/pdf?id=B1al7jg0b
+96,PixelNN: Example-based Image Synthesis,,Aayush Bansal;Yaser Sheikh;Deva Ramanan,,Poster,https://openreview.net/forum?id=Syhr6pxCW,https://openreview.net/pdf?id=Syhr6pxCW
+97,Understanding Short-Horizon Bias in Stochastic Meta-Optimization,,Yuhuai Wu;Mengye Ren;Renjie Liao;Roger Grosse.,,Poster,https://openreview.net/forum?id=H1MczcgR-,https://openreview.net/pdf?id=H1MczcgR-
+98,Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines,,Cathy Wu;Aravind Rajeswaran;Yan Duan;Vikash Kumar;Alexandre M Bayen;Sham Kakade;Igor Mordatch;Pieter Abbeel,,Oral,https://openreview.net/forum?id=H1tSsb-AW,https://openreview.net/pdf?id=H1tSsb-AW
+99,FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling,,Jie Chen;Tengfei Ma;Cao Xiao,,Poster,https://openreview.net/forum?id=rytstxWAW,https://openreview.net/pdf?id=rytstxWAW
+100,Action-dependent Control Variates for Policy Optimization via Stein Identity,,Hao Liu*;Yihao Feng*;Yi Mao;Dengyong Zhou;Jian Peng;Qiang Liu,,Poster,https://openreview.net/forum?id=H1mCp-ZRZ,https://openreview.net/pdf?id=H1mCp-ZRZ
+101,DCN+: Mixed Objective And Deep Residual Coattention for Question Answering,,Caiming Xiong;Victor Zhong;Richard Socher,,Poster,https://openreview.net/forum?id=H1meywxRW,https://openreview.net/pdf?id=H1meywxRW
+102,Deep Learning with Logged Bandit Feedback,,Thorsten Joachims;Adith Swaminathan;Maarten de Rijke,,Poster,https://openreview.net/forum?id=SJaP_-xAb,https://openreview.net/pdf?id=SJaP_-xAb
+103,Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks,,Shiyu Liang;Yixuan Li;R. Srikant,,Poster,https://openreview.net/forum?id=H1VGkIxRZ,https://openreview.net/pdf?id=H1VGkIxRZ
+104,Generative Models of Visually Grounded Imagination,,Ramakrishna Vedantam;Ian Fischer;Jonathan Huang;Kevin Murphy,,Poster,https://openreview.net/forum?id=HkCsm6lRb,https://openreview.net/pdf?id=HkCsm6lRb
+105,Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models,,Jesse Engel;Matthew Hoffman;Adam Roberts,,Poster,https://openreview.net/forum?id=Sy8XvGb0-,https://openreview.net/pdf?id=Sy8XvGb0-
+106,Learning Latent Permutations with Gumbel-Sinkhorn Networks,,Gonzalo Mena;David Belanger;Scott Linderman;Jasper Snoek,,Poster,https://openreview.net/forum?id=Byt3oJ-0W,https://openreview.net/pdf?id=Byt3oJ-0W
+107,Learning Wasserstein Embeddings,,Nicolas Courty;Rémi Flamary;Mélanie Ducoffe,,Poster,https://openreview.net/forum?id=SJyEH91A-,https://openreview.net/pdf?id=SJyEH91A-
+108,On the importance of single directions for generalization,,Ari S. Morcos;David G.T. Barrett;Neil C. Rabinowitz;Matthew Botvinick,,Poster,https://openreview.net/forum?id=r1iuQjxCZ,https://openreview.net/pdf?id=r1iuQjxCZ
+109,Routing Networks: Adaptive Selection of Non-Linear Functions for Multi-Task Learning,,Clemens Rosenbaum;Tim Klinger;Matthew Riemer,,Poster,https://openreview.net/forum?id=ry8dvM-R-,https://openreview.net/pdf?id=ry8dvM-R-
+110,The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning,,Audrunas Gruslys;Will Dabney;Mohammad Gheshlaghi Azar;Bilal Piot;Marc Bellemare;Remi Munos,,Poster,https://openreview.net/forum?id=rkHVZWZAZ,https://openreview.net/pdf?id=rkHVZWZAZ
+111,Backpropagation through the Void: Optimizing control variates for black-box gradient estimation,,Will Grathwohl;Dami Choi;Yuhuai Wu;Geoff Roeder;David Duvenaud,,Poster,https://openreview.net/forum?id=SyzKd1bCW,https://openreview.net/pdf?id=SyzKd1bCW
+112,Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs,,W. James Murdoch;Peter J. Liu;Bin Yu,,Oral,https://openreview.net/forum?id=rkRwGg-0Z,https://openreview.net/pdf?id=rkRwGg-0Z
+113,Generalizing Hamiltonian Monte Carlo with Neural Networks,,Daniel Levy;Matt D. Hoffman;Jascha Sohl-Dickstein,,Poster,https://openreview.net/forum?id=B1n8LexRZ,https://openreview.net/pdf?id=B1n8LexRZ
+114,Variational Message Passing with Structured Inference Networks,,Wu Lin;Nicolas Hubacher;Mohammad Emtiyaz Khan,,Poster,https://openreview.net/forum?id=HyH9lbZAW,https://openreview.net/pdf?id=HyH9lbZAW
+115,Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality,,Xingjun Ma;Bo Li;Yisen Wang;Sarah M. Erfani;Sudanthi Wijewickrema;Grant Schoenebeck;Dawn Song;Michael E. Houle;James Bailey,,Oral,https://openreview.net/forum?id=B1gJ1L2aW,https://openreview.net/pdf?id=B1gJ1L2aW
+116,Lifelong Learning with Dynamically Expandable Networks,,Jaehong Yoon;Eunho Yang;Jeongtae Lee;Sung Ju Hwang,,Poster,https://openreview.net/forum?id=Sk7KsfW0-,https://openreview.net/pdf?id=Sk7KsfW0-
+117,Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach,,Tsui-Wei Weng*;Huan Zhang*;Pin-Yu Chen;Jinfeng Yi;Dong Su;Yupeng Gao;Cho-Jui Hsieh;Luca Daniel,,Poster,https://openreview.net/forum?id=BkUHlMZ0b,https://openreview.net/pdf?id=BkUHlMZ0b
+118,Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design,,Yoav Levine;David Yakira;Nadav Cohen;Amnon Shashua,,Poster,https://openreview.net/forum?id=SywXXwJAb,https://openreview.net/pdf?id=SywXXwJAb
+119,Sobolev GAN,,Youssef Mroueh;Chun-Liang Li;Tom Sercu;Anant Raj;Yu Cheng,,Poster,https://openreview.net/forum?id=SJA7xfb0b,https://openreview.net/pdf?id=SJA7xfb0b
+120,Large Scale Optimal Transport and Mapping Estimation,,Vivien Seguy;Bharath Bhushan Damodaran;Remi Flamary;Nicolas Courty;Antoine Rolet;Mathieu Blondel,,Poster,https://openreview.net/forum?id=B1zlp1bRW,https://openreview.net/pdf?id=B1zlp1bRW
+121,Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning,,Sandeep Subramanian;Adam Trischler;Yoshua Bengio;Christopher J Pal,,Poster,https://openreview.net/forum?id=B18WgG-CZ,https://openreview.net/pdf?id=B18WgG-CZ
+122,Global Optimality Conditions for Deep Neural Networks,,Chulhee Yun;Suvrit Sra;Ali Jadbabaie,,Poster,https://openreview.net/forum?id=BJk7Gf-CZ,https://openreview.net/pdf?id=BJk7Gf-CZ
+123,All-but-the-Top: Simple and Effective Postprocessing for Word Representations,,Jiaqi Mu;Pramod Viswanath,,Poster,https://openreview.net/forum?id=HkuGJ3kCb,https://openreview.net/pdf?id=HkuGJ3kCb
+124,An efficient framework for learning sentence representations,,Lajanugen Logeswaran;Honglak Lee,,Poster,https://openreview.net/forum?id=rJvJXZb0W,https://openreview.net/pdf?id=rJvJXZb0W
+125,An Online Learning Approach to Generative Adversarial Networks,,Paulina Grnarova;Kfir Y Levy;Aurelien Lucchi;Thomas Hofmann;Andreas Krause,,Poster,https://openreview.net/forum?id=H1Yp-j1Cb,https://openreview.net/pdf?id=H1Yp-j1Cb
+126,Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis,,Yi Zhou;Zimo Li;Shuangjiu Xiao;Chong He;Zeng Huang;Hao Li,,Poster,https://openreview.net/forum?id=r11Q2SlRW,https://openreview.net/pdf?id=r11Q2SlRW
+127,Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training,,Yujun Lin;Song Han;Huizi Mao;Yu Wang;Bill Dally,,Poster,https://openreview.net/forum?id=SkhQHMW0W,https://openreview.net/pdf?id=SkhQHMW0W
+128,Distributed Distributional Deterministic Policy Gradients,,Gabriel Barth-Maron;Matthew W. Hoffman;David Budden;Will Dabney;Dan Horgan;Dhruva TB;Alistair Muldal;Nicolas Heess;Timothy Lillicrap,,Poster,https://openreview.net/forum?id=SyZipzbCb,https://openreview.net/pdf?id=SyZipzbCb
+129,Emergent Translation in Multi-Agent Communication,,Jason Lee;Kyunghyun Cho;Jason Weston;Douwe Kiela,,Poster,https://openreview.net/forum?id=H1vEXaxA-,https://openreview.net/pdf?id=H1vEXaxA-
+130,Memory-based Parameter Adaptation,,Pablo Sprechmann;Siddhant M. Jayakumar;Jack W. Rae;Alexander Pritzel;Adria Puigdomenech Badia;Benigno Uria;Oriol Vinyals;Demis Hassabis;Razvan Pascanu;Charles Blundell,,Poster,https://openreview.net/forum?id=rkfOvGbCW,https://openreview.net/pdf?id=rkfOvGbCW
+131,Parameter Space Noise for Exploration,,Matthias Plappert;Rein Houthooft;Prafulla Dhariwal;Szymon Sidor;Richard Y. Chen;Xi Chen;Tamim Asfour;Pieter Abbeel;Marcin Andrychowicz,,Poster,https://openreview.net/forum?id=ByBAl2eAZ,https://openreview.net/pdf?id=ByBAl2eAZ
+132,The Implicit Bias of Gradient Descent on Separable Data,,Daniel Soudry;Elad Hoffer;Mor Shpigel Nacson;Nathan Srebro,,Poster,https://openreview.net/forum?id=r1q7n9gAb,https://openreview.net/pdf?id=r1q7n9gAb
+133,Variational Inference of Disentangled Latent Concepts from Unlabeled Observations,,Abhishek Kumar;Prasanna Sattigeri;Avinash Balakrishnan,,Poster,https://openreview.net/forum?id=H1kG7GZAW,https://openreview.net/pdf?id=H1kG7GZAW
+134,Activation Maximization Generative Adversarial Nets,,Zhiming Zhou;Han Cai;Shu Rong;Yuxuan Song;Kan Ren;Weinan Zhang;Jun Wang;Yong Yu,,Poster,https://openreview.net/forum?id=HyyP33gAZ,https://openreview.net/pdf?id=HyyP33gAZ
+135,Adversarial Dropout Regularization,,Kuniaki Saito;Yoshitaka Ushiku;Tatsuya Harada;Kate Saenko,,Poster,https://openreview.net/forum?id=HJIoJWZCZ,https://openreview.net/pdf?id=HJIoJWZCZ
+136,Attacking Binarized Neural Networks,,Angus Galloway;Graham W. Taylor;Medhat Moussa,,Poster,https://openreview.net/forum?id=HkTEFfZRb,https://openreview.net/pdf?id=HkTEFfZRb
+137,Critical Points of Linear Neural Networks: Analytical Forms and Landscape Properties,,Yi Zhou;Yingbin Liang,,Poster,https://openreview.net/forum?id=SysEexbRb,https://openreview.net/pdf?id=SysEexbRb
+138,Learning Intrinsic Sparse Structures within Long Short-Term Memory,,Wei Wen;Yuxiong He;Samyam Rajbhandari;Minjia Zhang;Wenhan Wang;Fang Liu;Bin Hu;Yiran Chen;Hai Li,,Poster,https://openreview.net/forum?id=rk6cfpRjZ,https://openreview.net/pdf?id=rk6cfpRjZ
+139,Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization,,Ozsel Kilinc;Ismail Uysal,,Poster,https://openreview.net/forum?id=HkMvEOlAb,https://openreview.net/pdf?id=HkMvEOlAb
+140,Model-Ensemble Trust-Region Policy Optimization,,Thanard Kurutach;Ignasi Clavera;Yan Duan;Aviv Tamar;Pieter Abbeel,,Poster,https://openreview.net/forum?id=SJJinbWRZ,https://openreview.net/pdf?id=SJJinbWRZ
+141,Non-Autoregressive Neural Machine Translation,,Jiatao Gu;James Bradbury;Caiming Xiong;Victor O.K. Li;Richard Socher,,Poster,https://openreview.net/forum?id=B1l8BtlCb,https://openreview.net/pdf?id=B1l8BtlCb
+142,PDE-Net: Learning PDEs from Data,,Zichao Long;Yiping Lu;Xianzhong Ma;Bin Dong,,Workshop,,
+143,SEARNN: Training RNNs with global-local losses,,Rémi Leblond;Jean-Baptiste Alayrac;Anton Osokin;Simon Lacoste-Julien,,Poster,https://openreview.net/forum?id=HkUR_y-RZ,https://openreview.net/pdf?id=HkUR_y-RZ
+144,Stabilizing Adversarial Nets with Prediction Methods,,Abhay Yadav;Sohil Shah;Zheng Xu;David Jacobs;Tom Goldstein,,Poster,https://openreview.net/forum?id=Skj8Kag0Z,https://openreview.net/pdf?id=Skj8Kag0Z
+145,Towards better understanding of gradient-based attribution methods for Deep Neural Networks,,Marco Ancona;Enea Ceolini;Cengiz Öztireli;Markus Gross,,Poster,https://openreview.net/forum?id=Sy21R9JAW,https://openreview.net/pdf?id=Sy21R9JAW
+146,Towards Neural Phrase-based Machine Translation,,Po-Sen Huang;Chong Wang;Sitao Huang;Dengyong Zhou;Li Deng,,Poster,https://openreview.net/forum?id=HktJec1RZ,https://openreview.net/pdf?id=HktJec1RZ
+147,Word translation without parallel data,,Guillaume Lample;Alexis Conneau;Marc'Aurelio Ranzato;Ludovic Denoyer;Hervé Jégou,,Poster,https://openreview.net/forum?id=H196sainb,https://openreview.net/pdf?id=H196sainb
+148,Automatically Inferring Data Quality for Spatiotemporal Forecasting,,Sungyong Seo;Arash Mohegh;George Ban-Weiss;Yan Liu,,Poster,https://openreview.net/forum?id=ByJIWUnpW,https://openreview.net/pdf?id=ByJIWUnpW
+149,Beyond Shared Hierarchies: Deep Multitask Learning through Soft Layer Ordering,,Elliot Meyerson;Risto Miikkulainen,,Poster,https://openreview.net/forum?id=BkXmYfbAZ,https://openreview.net/pdf?id=BkXmYfbAZ
+150,Compositional Attention Networks for Machine Reasoning,,Drew A. Hudson;Christopher D. Manning,,Poster,https://openreview.net/forum?id=S1Euwz-Rb,https://openreview.net/pdf?id=S1Euwz-Rb
+151,Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking,,Aleksandar Bojchevski;Stephan Günnemann,,Poster,https://openreview.net/forum?id=r1ZdKJ-0W,https://openreview.net/pdf?id=r1ZdKJ-0W
+152,Do GANs learn the distribution? Some Theory and Empirics,,Sanjeev Arora;Andrej Risteski;Yi Zhang,,Poster,https://openreview.net/forum?id=BJehNfW0-,https://openreview.net/pdf?id=BJehNfW0-
+153,DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension,,Amrita Saha;Rahul Aralikatte;Mitesh M. Khapra;Karthik Sankaranarayanan,,Workshop,,
+154,Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches,,Yeming Wen;Paul Vicol;Jimmy Ba;Dustin Tran;Roger Grosse,,Poster,https://openreview.net/forum?id=rJNpifWAb,https://openreview.net/pdf?id=rJNpifWAb
+155,Hierarchical Representations for Efficient Architecture Search,,Hanxiao Liu;Karen Simonyan;Oriol Vinyals;Chrisantha Fernando;Koray Kavukcuoglu,,Poster,https://openreview.net/forum?id=BJQRKzbA-,https://openreview.net/pdf?id=BJQRKzbA-
+156,Interpretable Counting for Visual Question Answering,,Alexander Trott;Caiming Xiong;Richard Socher,,Poster,https://openreview.net/forum?id=S1J2ZyZ0Z,https://openreview.net/pdf?id=S1J2ZyZ0Z
+157,Learning From Noisy Singly-labeled Data,,Ashish Khetan;Zachary C. Lipton;Animashree Anandkumar,,Poster,https://openreview.net/forum?id=H1sUHgb0Z,https://openreview.net/pdf?id=H1sUHgb0Z
+158,Loss-aware Weight Quantization of Deep Networks,,Lu Hou;James T. Kwok,,Poster,https://openreview.net/forum?id=BkrSv0lA-,https://openreview.net/pdf?id=BkrSv0lA-
+159,Mixed Precision Training,,Paulius Micikevicius;Sharan Narang;Jonah Alben;Gregory Diamos;Erich Elsen;David Garcia;Boris Ginsburg;Michael Houston;Oleksii Kuchaiev;Ganesh Venkatesh;Hao Wu,,Poster,https://openreview.net/forum?id=r1gs9JgRZ,https://openreview.net/pdf?id=r1gs9JgRZ
+160,On the Expressive Power of Overlapping Architectures of Deep Learning,,Or Sharir;Amnon Shashua,,Poster,https://openreview.net/forum?id=HkNGsseC-,https://openreview.net/pdf?id=HkNGsseC-
+161,On Unifying Deep Generative Models,,Zhiting Hu;Zichao Yang;Ruslan Salakhutdinov;Eric P. Xing,,Poster,https://openreview.net/forum?id=rylSzl-R-,https://openreview.net/pdf?id=rylSzl-R-
+162,Online Learning Rate Adaptation with Hypergradient Descent,,Atilim Gunes Baydin;Robert Cornish;David Martinez Rubio;Mark Schmidt;Frank Wood,,Poster,https://openreview.net/forum?id=BkrsAzWAb,https://openreview.net/pdf?id=BkrsAzWAb
+163,Residual Loss Prediction: Reinforcement Learning With No Incremental Feedback,,Hal Daumé III;John Langford;Amr Sharaf,,Poster,,
+164,Towards Deep Learning Models Resistant to Adversarial Attacks,,Aleksander Madry;Aleksandar Makelov;Ludwig Schmidt;Dimitris Tsipras;Adrian Vladu,,Poster,https://openreview.net/forum?id=rJzIBfZAb,https://openreview.net/pdf?id=rJzIBfZAb
+165,TRAINING GENERATIVE ADVERSARIAL NETWORKS VIA PRIMAL-DUAL SUBGRADIENT METHODS: A LAGRANGIAN PERSPECTIVE ON GAN,,Xu Chen;Jiang Wang;Hao Ge,,Poster,https://openreview.net/forum?id=BJNRFNlRW,https://openreview.net/pdf?id=BJNRFNlRW
+166,Wavelet Pooling for Convolutional Neural Networks,,Travis Williams;Robert Li,,Poster,https://openreview.net/forum?id=rkhlb8lCZ,https://openreview.net/pdf?id=rkhlb8lCZ
+167,Debiasing Evidence Approximations: On Importance-weighted Autoencoders and Jackknife Variational Inference,,Sebastian Nowozin,,Poster,https://openreview.net/forum?id=HyZoi-WRb,https://openreview.net/pdf?id=HyZoi-WRb
+168,Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models,,Pouya Samangouei;Maya Kabkab;Rama Chellappa,,Poster,https://openreview.net/forum?id=BkJ3ibb0-,https://openreview.net/pdf?id=BkJ3ibb0-
+169,Interpretable and Pedagogical Examples,,Smitha Milli;Pieter Abbeel;Igor Mordatch,,Reject,,
+170,Learning a Generative Model for Validity in Complex Discrete Structures,,Dave Janz;Jos van der Westhuizen;Brooks Paige;Matt Kusner;José Miguel Hernández-Lobato,,Poster,https://openreview.net/forum?id=rkrC3GbRW,https://openreview.net/pdf?id=rkrC3GbRW
+171,Learning Weighted Representations for Generalization Across Designs,,Fredrik D. Johansson;Nathan Kallus;Uri Shalit;David Sontag,,Reject,,
+172,Mixed Precision Training of Convolutional Neural Networks using Integer Operations,,Dipankar Das;Naveen Mellempudi;Dheevatsa Mudigere;Dhiraj Kalamkar;Sasikanth Avancha;Kunal Banerjee;Srinivas Sridharan;Karthik Vaidyanathan;Bharat Kaul;Evangelos Georganas;Alexander Heinecke;Pradeep Dubey;Jesus Corbal;Nikita Shustrov;Roma Dubtsov;Evarist Fomenko;Vadim Pirogov,,Poster,https://openreview.net/forum?id=H135uzZ0-,https://openreview.net/pdf?id=H135uzZ0-
+173,Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples,,Ashwin Kalyan;Abhishek Mohta;Oleksandr Polozov;Dhruv Batra;Prateek Jain;Sumit Gulwani,,Poster,https://openreview.net/forum?id=rywDjg-RW,https://openreview.net/pdf?id=rywDjg-RW
+174,On the State of the Art of Evaluation in Neural Language Models,,Gábor Melis;Chris Dyer;Phil Blunsom,,Poster,https://openreview.net/forum?id=ByJHuTgA-,https://openreview.net/pdf?id=ByJHuTgA-
+175,Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration,,Evan Zheran Liu;Kelvin Guu;Panupong Pasupat;Tianlin Shi;Percy Liang,,Poster,https://openreview.net/forum?id=ryTp3f-0-,https://openreview.net/pdf?id=ryTp3f-0-
+176,The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings,,Tomer Galanti;Lior Wolf;Sagie Benaim,,Poster,https://openreview.net/forum?id=H1VjBebR-,https://openreview.net/pdf?id=H1VjBebR-
+177,Unsupervised Learning of Goal Spaces for Intrinsically Motivated Goal Exploration,,Alexandre Péré;Sébastien Forestier;Olivier Sigaud;Pierre-Yves Oudeyer,,Poster,https://openreview.net/forum?id=S1DWPP1A-,https://openreview.net/pdf?id=S1DWPP1A-
+178,Divide and Conquer Networks,,Alex Nowak;David Folqué;Joan Bruna,,Poster,https://openreview.net/forum?id=B1jscMbAW,https://openreview.net/pdf?id=B1jscMbAW
+179,Dynamic Neural Program Embeddings for Program Repair,,Ke Wang;Rishabh Singh;Zhendong Su,,Poster,https://openreview.net/forum?id=BJuWrGW0Z,https://openreview.net/pdf?id=BJuWrGW0Z
+180,Evidence Aggregation for Answer Re-Ranking in Open-Domain Question Answering,,Shuohang Wang;Mo Yu;Jing Jiang;Wei Zhang;Xiaoxiao Guo;Shiyu Chang;Zhiguo Wang;Tim Klinger;Gerald Tesauro;Murray Campbell,,Poster,https://openreview.net/forum?id=rJl3yM-Ab,https://openreview.net/pdf?id=rJl3yM-Ab
+181,Improving GANs Using Optimal Transport,,Tim Salimans;Han Zhang;Alec Radford;Dimitris Metaxas,,Poster,https://openreview.net/forum?id=rkQkBnJAb,https://openreview.net/pdf?id=rkQkBnJAb
+182,Measuring the Intrinsic Dimension of Objective Landscapes,,Chunyuan Li;Heerad Farkhoor;Rosanne Liu;Jason Yosinski,,Poster,https://openreview.net/forum?id=ryup8-WCW,https://openreview.net/pdf?id=ryup8-WCW
+183,NerveNet: Learning Structured Policy with Graph Neural Networks,,Tingwu Wang;Renjie Liao;Jimmy Ba;Sanja Fidler,,Poster,https://openreview.net/forum?id=S1sqHMZCb,https://openreview.net/pdf?id=S1sqHMZCb
+184,Parallelizing Linear Recurrent Neural Nets Over Sequence Length,,Eric Martin;Chris Cundy,,Poster,https://openreview.net/forum?id=HyUNwulC-,https://openreview.net/pdf?id=HyUNwulC-
+185,Recasting Gradient-Based Meta-Learning as Hierarchical Bayes,,Erin Grant;Chelsea Finn;Sergey Levine;Trevor Darrell;Thomas Griffiths,,Poster,https://openreview.net/forum?id=BJ_UL-k0b,https://openreview.net/pdf?id=BJ_UL-k0b
+186,SMASH: One-Shot Model Architecture Search through HyperNetworks,,Andrew Brock;Theo Lim;J.M. Ritchie;Nick Weston,,Poster,https://openreview.net/forum?id=rydeCEhs-,https://openreview.net/pdf?id=rydeCEhs-
+187,The Kanerva Machine: A Generative Distributed Memory,,Yan Wu;Greg Wayne;Alex Graves;Timothy Lillicrap,,Poster,https://openreview.net/forum?id=S1HlA-ZAZ,https://openreview.net/pdf?id=S1HlA-ZAZ
+188,Towards Synthesizing Complex Programs From Input-Output Examples,,Xinyun Chen;Chang Liu;Dawn Song,,Poster,https://openreview.net/forum?id=Skp1ESxRZ,https://openreview.net/pdf?id=Skp1ESxRZ
+189,"A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs",,Sanjeev Arora;Mikhail Khodak;Nikunj Saunshi;Kiran Vodrahalli,,Poster,https://openreview.net/forum?id=B1e5ef-C-,https://openreview.net/pdf?id=B1e5ef-C-
+190,Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge,,Emmanuel de Bezenac;Arthur Pajot;Patrick Gallinari,,Poster,https://openreview.net/forum?id=By4HsfWAZ,https://openreview.net/pdf?id=By4HsfWAZ
+191,Espresso: Efficient Forward Propagation for Binary Deep Neural Networks,,Fabrizio Pedersoli;George Tzanetakis;Andrea Tagliasacchi,,Poster,https://openreview.net/forum?id=Sk6fD5yCb,https://openreview.net/pdf?id=Sk6fD5yCb
+192,FearNet: Brain-Inspired Model for Incremental Learning,,Ronald Kemker;Christopher Kanan,,Poster,https://openreview.net/forum?id=SJ1Xmf-Rb,https://openreview.net/pdf?id=SJ1Xmf-Rb
+193,Gradient Estimators for Implicit Models,,Yingzhen Li;Richard E. Turner,,Poster,https://openreview.net/forum?id=SJi9WOeRb,https://openreview.net/pdf?id=SJi9WOeRb
+194,On the Information Bottleneck Theory of Deep Learning,,Andrew Michael Saxe;Yamini Bansal;Joel Dapello;Madhu Advani;Artemy Kolchinsky;Brendan Daniel Tracey;David Daniel Cox,,Poster,https://openreview.net/forum?id=ry_WPG-A-,https://openreview.net/pdf?id=ry_WPG-A-
+195,Critical Percolation as a Framework to Analyze the Training of Deep Networks,,Zohar Ringel;Rodrigo Andrade de Bem,,Poster,https://openreview.net/forum?id=BJGWO9k0Z,https://openreview.net/pdf?id=BJGWO9k0Z
+196,CyCADA: Cycle-Consistent Adversarial Domain Adaptation,,Judy Hoffman;Eric Tzeng;Taesung Park;Jun-Yan Zhu;Phillip Isola;Kate Saenko;Alyosha Efros;Trevor Darrell,,Reject,,
+197,A Framework for the Quantitative Evaluation of Disentangled Representations,,Cian Eastwood;Christopher K. I. Williams,,Poster,https://openreview.net/forum?id=By-7dz-AZ,https://openreview.net/pdf?id=By-7dz-AZ
+198,Learning Representations and Generative Models for 3D Point Clouds,,Panos Achlioptas;Olga Diamanti;Ioannis Mitliagkas;Leonidas Guibas,,Workshop,,
+199,Training RNNs as Fast as CNNs,,Tao Lei;Yu Zhang;Yoav Artzi,,Reject,,
+200,cGANs with Projection Discriminator,,Takeru Miyato;Masanori Koyama,,Poster,https://openreview.net/forum?id=ByS1VpgRZ,https://openreview.net/pdf?id=ByS1VpgRZ
+201,Deep Rewiring: Training very sparse deep networks,,Guillaume Bellec;David Kappel;Wolfgang Maass;Robert Legenstein,,Poster,https://openreview.net/forum?id=BJ_wN01C-,https://openreview.net/pdf?id=BJ_wN01C-
+202,Explicit Induction Bias for Transfer Learning with Convolutional Networks,,Xuhong LI;Yves GRANDVALET;Franck DAVOINE,,Reject,,
+203,Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions,,Scott Reed;Yutian Chen;Thomas Paine;Aäron van den Oord;S. M. Ali Eslami;Danilo Rezende;Oriol Vinyals;Nando de Freitas,,Poster,https://openreview.net/forum?id=r1wEFyWCW,https://openreview.net/pdf?id=r1wEFyWCW
+204,Memory Architectures in Recurrent Neural Network Language Models,,Dani Yogatama;Yishu Miao;Gabor Melis;Wang Ling;Adhiguna Kuncoro;Chris Dyer;Phil Blunsom,,Poster,https://openreview.net/forum?id=SkFqf0lAZ,https://openreview.net/pdf?id=SkFqf0lAZ
+205,"Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks",,Pratik Chaudhari;Stefano Soatto,,Poster,https://openreview.net/forum?id=HyWrIgW0W,https://openreview.net/pdf?id=HyWrIgW0W
+206,Understanding Deep Neural Networks with Rectified Linear Units,,Raman Arora;Amitabh Basu;Poorya Mianjy;Anirbit Mukherjee,,Poster,https://openreview.net/forum?id=B1J_rgWRW,https://openreview.net/pdf?id=B1J_rgWRW
+207,Weighted Transformer Network for Machine Translation,,Karim Ahmed;Nitish Shirish Keskar;Richard Socher,,Reject,,
+208,Assessing the scalability of biologically-motivated deep learning algorithms and architectures,,Sergey Bartunov;Adam Santoro;Blake A. Richards;Geoffrey E. Hinton;Timothy Lillicrap,,Withdraw,,
+209,Data Augmentation Generative Adversarial Networks,,Anthreas Antoniou;Amos Storkey;Harrison Edwards,,Workshop,,
+210,Deep Complex Networks,,Chiheb Trabelsi;Olexa Bilaniuk;Ying Zhang;Dmitriy Serdyuk;Sandeep Subramanian;Joao Felipe Santos;Soroush Mehri;Negar Rostamzadeh;Yoshua Bengio;Christopher J Pal,,Poster,https://openreview.net/forum?id=H1T2hmZAb,https://openreview.net/pdf?id=H1T2hmZAb
+211,Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning,,Wei Ping;Kainan Peng;Andrew Gibiansky;Sercan O. Arik;Ajay Kannan;Sharan Narang;Jonathan Raiman;John Miller,,Poster,https://openreview.net/forum?id=HJtEm4p6Z,https://openreview.net/pdf?id=HJtEm4p6Z
+212,"Don't Decay the Learning Rate, Increase the Batch Size",,Samuel L. Smith;Pieter-Jan Kindermans;Chris Ying;Quoc V. Le,,Poster,https://openreview.net/forum?id=B1Yy1BxCZ,https://openreview.net/pdf?id=B1Yy1BxCZ
+213,Emergent Complexity via Multi-Agent Competition,,Trapit Bansal;Jakub Pachocki;Szymon Sidor;Ilya Sutskever;Igor Mordatch,,Poster,https://openreview.net/forum?id=Sy0GnUxCb,https://openreview.net/pdf?id=Sy0GnUxCb
+214,Hallucinating brains with artificial brains,,Peiye Zhuang;Alexander G. Schwing;Oluwasanmi Koyejo,,Reject,,
+215,Interactive Grounded Language Acquisition and Generalization in a 2D World,,Haonan Yu;Haichao Zhang;Wei Xu,,Poster,https://openreview.net/forum?id=H1UOm4gA-,https://openreview.net/pdf?id=H1UOm4gA-
+216,Learning Dynamic State Abstractions for Model-Based Reinforcement Learning,,Lars Buesing;Theophane Weber;Sebastien Racaniere;S. M. Ali Eslami;Danilo Rezende;David Reichert;Fabio Viola;Frederic Besse;Karol Gregor;Demis Hassabis;Daan Wierstra,,Reject,,
+217,Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step,,William Fedus*;Mihaela Rosca*;Balaji Lakshminarayanan;Andrew M. Dai;Shakir Mohamed;Ian Goodfellow,,Poster,https://openreview.net/forum?id=ByQpn1ZA-,https://openreview.net/pdf?id=ByQpn1ZA-
+218,Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks,,Youngjin Kim;Minjung Kim;Gunhee Kim,,Poster,https://openreview.net/forum?id=rkO3uTkAZ,https://openreview.net/pdf?id=rkO3uTkAZ
+219,mixup: Beyond Empirical Risk Minimization,,Hongyi Zhang;Moustapha Cisse;Yann N. Dauphin;David Lopez-Paz,,Poster,https://openreview.net/forum?id=r1Ddp1-Rb,https://openreview.net/pdf?id=r1Ddp1-Rb
+220,Multi-View Data Generation Without View Supervision,,Mickael Chen;Ludovic Denoyer;Thierry Artières,,Poster,https://openreview.net/forum?id=ryRh0bb0Z,https://openreview.net/pdf?id=ryRh0bb0Z
+221,Predicting Floor-Level for 911 Calls with Neural Networks and Smartphone Sensor Data,,William Falcon;Henning Schulzrinne,,Poster,https://openreview.net/forum?id=ryBnUWb0b,https://openreview.net/pdf?id=ryBnUWb0b
+222,QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension,,Adams Wei Yu;David Dohan;Minh-Thang Luong;Rui Zhao;Kai Chen;Mohammad Norouzi;Quoc V. Le,,Poster,,
+223,Reinforcement Learning Algorithm Selection,,Romain Laroche;Raphael Feraud,,Poster,https://openreview.net/forum?id=SyoDInJ0-,https://openreview.net/pdf?id=SyoDInJ0-
+224,Semantically Decomposing the Latent Spaces of Generative Adversarial Networks,,Chris Donahue;Zachary C. Lipton;Akshay Balsubramani;Julian McAuley,,Poster,https://openreview.net/forum?id=S1nQvfgA-,https://openreview.net/pdf?id=S1nQvfgA-
+225,Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks,,Brenden Lake;Marco Baroni,,Workshop,,
+226,The power of deeper networks for expressing natural functions,,David Rolnick;Max Tegmark,,Poster,https://openreview.net/forum?id=SyProzZAW,https://openreview.net/pdf?id=SyProzZAW
+227,VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop,,Yaniv Taigman;Lior Wolf;Adam Polyak;Eliya Nachmani,,Poster,https://openreview.net/forum?id=SkFAWax0-,https://openreview.net/pdf?id=SkFAWax0-
+228,Adaptive Dropout with Rademacher Complexity Regularization,,Ke Zhai;Huan Wang,,Poster,https://openreview.net/forum?id=S1uxsye0Z,https://openreview.net/pdf?id=S1uxsye0Z
+229,Combining Symbolic Expressions and Black-box Function Evaluations in Neural Programs,,Forough Arabshahi;Sameer Singh;Animashree Anandkumar,,Poster,https://openreview.net/forum?id=Hksj2WWAW,https://openreview.net/pdf?id=Hksj2WWAW
+230,Deep Active Learning for Named Entity Recognition,,Yanyao Shen;Hyokun Yun;Zachary C. Lipton;Yakov Kronrod;Animashree Anandkumar,,Poster,https://openreview.net/forum?id=ry018WZAZ,https://openreview.net/pdf?id=ry018WZAZ
+231,Depthwise Separable Convolutions for Neural Machine Translation,,Lukasz Kaiser;Aidan N. Gomez;Francois Chollet,,Poster,https://openreview.net/forum?id=S1jBcueAb,https://openreview.net/pdf?id=S1jBcueAb
+232,DORA The Explorer: Directed Outreaching Reinforcement Action-Selection,,Lior Fox;Leshem Choshen;Yonatan Loewenstein,,Poster,https://openreview.net/forum?id=ry1arUgCW,https://openreview.net/pdf?id=ry1arUgCW
+233,Fixing Weight Decay Regularization in Adam,,Ilya Loshchilov;Frank Hutter,,Reject,,
+234,Initialization matters: Orthogonal Predictive State Recurrent Neural Networks,,Krzysztof Choromanski;Carlton Downey;Byron Boots,,Poster,https://openreview.net/forum?id=HJJ23bW0b,https://openreview.net/pdf?id=HJJ23bW0b
+235,Kernel Implicit Variational Inference,,Jiaxin Shi;Shengyang Sun;Jun Zhu,,Poster,https://openreview.net/forum?id=r1l4eQW0Z,https://openreview.net/pdf?id=r1l4eQW0Z
+236,Kronecker-factored Curvature Approximations for Recurrent Neural Networks,,James Martens;Jimmy Ba;Matt Johnson,,Poster,https://openreview.net/forum?id=HyMTkQZAb,https://openreview.net/pdf?id=HyMTkQZAb
+237,Learning to Multi-Task by Active Sampling,,Sahil Sharma*;Ashutosh Kumar Jha*;Parikshit S Hegde;Balaraman Ravindran,,Poster,https://openreview.net/forum?id=B1nZ1weCZ,https://openreview.net/pdf?id=B1nZ1weCZ
+238,Memory Augmented Control Networks,,Arbaaz Khan;Clark Zhang;Nikolay Atanasov;Konstantinos Karydis;Vijay Kumar;Daniel D. Lee,,Poster,https://openreview.net/forum?id=HyfHgI6aW,https://openreview.net/pdf?id=HyfHgI6aW
+239,Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning,,Kunkun Pang;Mingzhi Dong;Timothy Hospedales,,Reject,,
+240,Mitigating Adversarial Effects Through Randomization,,Cihang Xie;Jianyu Wang;Zhishuai Zhang;Zhou Ren;Alan Yuille,,Poster,https://openreview.net/forum?id=Sk9yuql0Z,https://openreview.net/pdf?id=Sk9yuql0Z
+241,Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control,,Glen Berseth;Cheng Xie;Paul Cernek;Michiel Van de Panne,,Poster,https://openreview.net/forum?id=B13njo1R-,https://openreview.net/pdf?id=B13njo1R-
+242,Stochastic Activation Pruning for Robust Adversarial Defense,,Guneet S. Dhillon;Kamyar Azizzadenesheli;Zachary C. Lipton;Jeremy D. Bernstein;Jean Kossaifi;Aran Khanna;Animashree Anandkumar,,Poster,https://openreview.net/forum?id=H1uR4GZRZ,https://openreview.net/pdf?id=H1uR4GZRZ
+243,Synthesizing Robust Adversarial Examples,,Anish Athalye;Logan Engstrom;Andrew Ilyas;Kevin Kwok,,Reject,,
+244,Towards Reverse-Engineering Black-Box Neural Networks,,Seong Joon Oh;Max Augustin;Mario Fritz;Bernt Schiele,,Poster,https://openreview.net/forum?id=BydjJte0-,https://openreview.net/pdf?id=BydjJte0-
+245,Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio,,Dongsoo Lee;Daehyun Ahn;Taesu Kim;Pierce I. Chuang;Jae-Joon Kim,,Poster,https://openreview.net/forum?id=S1D8MPxA-,https://openreview.net/pdf?id=S1D8MPxA-
+246,WRPN: Wide Reduced-Precision Networks,,Asit Mishra;Eriko Nurvitadhi;Jeffrey J Cook;Debbie Marr,,Poster,https://openreview.net/forum?id=B1ZvaaeAZ,https://openreview.net/pdf?id=B1ZvaaeAZ
+247,A Simple Neural Attentive Meta-Learner,,Nikhil Mishra;Mostafa Rohaninejad;Xi Chen;Pieter Abbeel,,Poster,https://openreview.net/forum?id=B1DmUzWAW,https://openreview.net/pdf?id=B1DmUzWAW
+248,Countering Adversarial Images using Input Transformations,,Chuan Guo;Mayank Rana;Moustapha Cisse;Laurens van der Maaten,,Poster,https://openreview.net/forum?id=SyJ7ClWCb,https://openreview.net/pdf?id=SyJ7ClWCb
+249,Distribution Regression Network,,Connie Kou;Hwee Kuan Lee;Teck Khim Ng,,Reject,,
+250,Generating Natural Adversarial Examples,,Zhengli Zhao;Dheeru Dua;Sameer Singh,,Poster,https://openreview.net/forum?id=H1BLjgZCb,https://openreview.net/pdf?id=H1BLjgZCb
+251,Learning Discrete Weights Using the Local Reparameterization Trick,,Oran Shayer;Dan Levi;Ethan Fetaya,,Poster,https://openreview.net/forum?id=BySRH6CpW,https://openreview.net/pdf?id=BySRH6CpW
+252,Learning Sparse Neural Networks through L_0 Regularization,,Christos Louizos;Max Welling;Diederik P. Kingma,,Poster,https://openreview.net/forum?id=H1Y8hhg0b,https://openreview.net/pdf?id=H1Y8hhg0b
+253,THE EFFECTIVENESS OF A TWO-LAYER NEURAL NETWORK FOR RECOMMENDATIONS,,Oleg Rybakov;Vijai Mohan;Avishkar Misra;Scott LeGrand;Rejith Joseph;Kiuk Chung;Siddharth Singh;Qian You;Eric Nalisnick;Leo Dirac;Runfei Luo,,Workshop,,
+254,Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples,,Kimin Lee;Honglak Lee;Kibok Lee;Jinwoo Shin,,Poster,https://openreview.net/forum?id=ryiAv2xAZ,https://openreview.net/pdf?id=ryiAv2xAZ
+255,Universal Agent for Disentangling Environments and Tasks,,Jiayuan Mao;Honghua Dong;Joseph J. Lim,,Poster,https://openreview.net/forum?id=B1mvVm-C-,https://openreview.net/pdf?id=B1mvVm-C-
+256,Attention-based Graph Neural Network for Semi-supervised Learning,,Kiran K. Thekumparampil;Sewoong Oh;Chong Wang;Li-Jia Li,,Reject,,
+257,Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields,,Thomas Unterthiner;Bernhard Nessler;Calvin Seward;Günter Klambauer;Martin Heusel;Hubert Ramsauer;Sepp Hochreiter,,Poster,https://openreview.net/forum?id=SkVqXOxCb,https://openreview.net/pdf?id=SkVqXOxCb
+258,Decoupling the Layers in Residual Networks,,Ricky Fok;Aijun An;Zana Rashidi;Xiaogang Wang,,Poster,https://openreview.net/forum?id=SyMvJrdaW,https://openreview.net/pdf?id=SyMvJrdaW
+259,GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders,,Martin Simonovsky;Nikos Komodakis,,Reject,,
+260,Learning Robust Rewards with Adverserial Inverse Reinforcement Learning,,Justin Fu;Katie Luo;Sergey Levine,,Poster,https://openreview.net/forum?id=rkHywl-A-,https://openreview.net/pdf?id=rkHywl-A-
+261,Thinking like a machine — generating visual rationales through latent space optimization,,Jarrel Seah;Jennifer Tang;Andy Kitchen;Jonathan Seah,,Reject,,
+262,Scalable Private Learning with PATE,,Nicolas Papernot;Shuang Song;Ilya Mironov;Ananth Raghunathan;Kunal Talwar;Ulfar Erlingsson,,Poster,https://openreview.net/forum?id=rkZB1XbRZ,https://openreview.net/pdf?id=rkZB1XbRZ
+263,Learning Parametric Closed-Loop Policies for Markov Potential Games,,Sergio Valcarcel Macua;Javier Zazo;Santiago Zazo,,Poster,https://openreview.net/forum?id=rJm7VfZA-,https://openreview.net/pdf?id=rJm7VfZA-
+264,Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm,,Chelsea Finn;Sergey Levine,,Poster,https://openreview.net/forum?id=HyjC5yWCW,https://openreview.net/pdf?id=HyjC5yWCW
+265,Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning,,Benjamin Eysenbach;Shixiang Gu;Julian Ibarz;Sergey Levine,,Poster,https://openreview.net/forum?id=S1vuO-bCW,https://openreview.net/pdf?id=S1vuO-bCW
+266,An empirical study on evaluation metrics of generative adversarial networks,,Gao Huang;Yang Yuan;Qiantong Xu;Chuan Guo;Yu Sun;Felix Wu;Kilian Weinberger,,Reject,,
+267,Inference Suboptimality in Variational Autoencoders,,Chris Cremer;Xuechen Li;David Duvenaud,,Workshop,,
+268,Recurrent Neural Networks with Top-k Gains for Session-based Recommendations,,Balázs Hidasi;Alexandros Karatzoglou,,Reject,,
+269,Theoretical properties of the global optimizer of two-layer Neural Network,,Digvijay Boob;Guanghui Lan,,Reject,,
+270,A Hierarchical Model for Device Placement,,Azalia Mirhoseini;Anna Goldie;Hieu Pham;Benoit Steiner;Quoc V. Le;Jeff Dean,,Poster,https://openreview.net/forum?id=Hkc-TeZ0W,https://openreview.net/pdf?id=Hkc-TeZ0W
+271,Automatic Parameter Tying in Neural Networks,,Yibo Yang;Nicholas Ruozzi;Vibhav Gogate,,Reject,,
+272,Avoiding degradation in deep feed-forward networks by phasing out skip-connections,,Ricardo Pio Monti;Sina Tootoonian;Robin Cao,,Reject,,
+273,Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling,,Carlos Riquelme;George Tucker;Jasper Snoek,,Poster,https://openreview.net/forum?id=SyYe6k-CW,https://openreview.net/pdf?id=SyYe6k-CW
+274,Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting,,Yaguang Li;Rose Yu;Cyrus Shahabi;Yan Liu,,Poster,https://openreview.net/forum?id=SJiHXGWAZ,https://openreview.net/pdf?id=SJiHXGWAZ
+275,Graph Attention Networks,,Petar Veličković;Guillem Cucurull;Arantxa Casanova;Adriana Romero;Pietro Liò;Yoshua Bengio,,Poster,https://openreview.net/forum?id=rJXMpikCZ,https://openreview.net/pdf?id=rJXMpikCZ
+276,Meta-Learning for Semi-Supervised Few-Shot Classification,,Mengye Ren;Eleni Triantafillou;Sachin Ravi;Jake Snell;Kevin Swersky;Joshua B. Tenenbaum;Hugo Larochelle;Richard S. Zemel,,Poster,https://openreview.net/forum?id=HJcSzz-CZ,https://openreview.net/pdf?id=HJcSzz-CZ
+277,On the Use of Word Embeddings Alone to Represent Natural Language Sequences,,Dinghan Shen;Guoyin Wang;Wenlin Wang;Martin Renqiang Min;Qinliang Su;Yizhe Zhang;Ricardo Henao;Lawrence Carin,,Reject,,
+278,Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers,,Jianbo Ye;Xin Lu;Zhe Lin;James Z. Wang,,Poster,https://openreview.net/forum?id=HJ94fqApW,https://openreview.net/pdf?id=HJ94fqApW
+279,Unsupervised Neural Machine Translation,,Mikel Artetxe;Gorka Labaka;Eneko Agirre;Kyunghyun Cho,,Poster,https://openreview.net/forum?id=Sy2ogebAW,https://openreview.net/pdf?id=Sy2ogebAW
+280,Multiple Source Domain Adaptation with Adversarial Learning,,Han Zhao;Shanghang Zhang;Guanhang Wu;Jo\~{a}o  P. Costeira;Jos\'{e} M. F.  Moura;Geoffrey J. Gordon,,Workshop,,
+281,A New Method of Region Embedding for Text Classification,,chao qiao;bo huang;guocheng niu;daren li;daxiang dong;wei he;dianhai yu;hua wu,,Poster,https://openreview.net/forum?id=BkSDMA36Z,https://openreview.net/pdf?id=BkSDMA36Z
+282,Automatic Goal Generation for Reinforcement Learning Agents,,David Held;Xinyang Geng;Carlos Florensa;Pieter Abbeel,,Reject,,
+283,Bayesian Hypernetworks,,David Krueger;Chin-Wei Huang;Riashat Islam;Ryan Turner;Alexandre Lacoste;Aaron Courville,,Reject,,
+284,Coupled Ensembles of Neural Networks,,Anuvabh Dutt;Denis Pellerin;Georges Quénot,,Reject,,
+285,Divide-and-Conquer Reinforcement Learning,,Dibya Ghosh;Avi Singh;Aravind Rajeswaran;Vikash Kumar;Sergey Levine,,Poster,https://openreview.net/forum?id=rJwelMbR-,https://openreview.net/pdf?id=rJwelMbR-
+286,Expressive power of recurrent neural networks,,Valentin Khrulkov;Alexander Novikov;Ivan Oseledets,,Poster,https://openreview.net/forum?id=S1WRibb0Z,https://openreview.net/pdf?id=S1WRibb0Z
+287,Fix your classifier: the marginal value of training the last weight layer,,Elad Hoffer;Itay Hubara;Daniel Soudry,,Poster,https://openreview.net/forum?id=S1Dh8Tg0-,https://openreview.net/pdf?id=S1Dh8Tg0-
+288,Gaussian Process Behaviour in Wide Deep Neural Networks,,Alexander G. de G. Matthews;Jiri Hron;Mark Rowland;Richard E. Turner;Zoubin Ghahramani,,Poster,https://openreview.net/forum?id=H1-nGgWC-,https://openreview.net/pdf?id=H1-nGgWC-
+289,Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning,,Rajarshi Das;Shehzaad Dhuliawala;Manzil Zaheer;Luke Vilnis;Ishan Durugkar;Akshay Krishnamurthy;Alex Smola;Andrew McCallum,,Poster,https://openreview.net/forum?id=Syg-YfWCW,https://openreview.net/pdf?id=Syg-YfWCW
+290,Hierarchical Density Order Embeddings,,Ben Athiwaratkun;Andrew Gordon Wilson,,Poster,https://openreview.net/forum?id=HJCXZQbAZ,https://openreview.net/pdf?id=HJCXZQbAZ
+291,Jointly Learning to Construct and Control Agents using Deep Reinforcement Learning,,Charles Schaff;David Yunis;Ayan Chakrabarti;Matthew R. Walter,,Workshop,,
+292,Kronecker Recurrent Units,,Cijo Jose;Moustapha Cisse;Francois Fleuret,,Workshop,,
+293,Lifelong Learning by Adjusting Priors,,Ron Amit;Ron Meir,,Reject,,
+294,Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum,,Omer Levy;Kenton Lee;Nicholas FitzGerald;Luke Zettlemoyer,,Reject,,
+295,"MACH: Embarrassingly parallel $K$-class classification in $O(d\log{K})$ memory and $O(K\log{K} + d\log{K})$ time, instead of $O(Kd)$",,Qixuan Huang;Anshumali Shrivastava;Yiqiu Wang,,Reject,,
+296,MGAN: Training Generative Adversarial Nets with Multiple Generators,,Quan Hoang;Tu Dinh Nguyen;Trung Le;Dinh Phung,,Poster,https://openreview.net/forum?id=rkmu5b0a-,https://openreview.net/pdf?id=rkmu5b0a-
+297,Multi-Mention Learning for Reading Comprehension with Neural Cascades,,Swabha Swayamdipta;Ankur P. Parikh;Tom Kwiatkowski,,Poster,https://openreview.net/forum?id=HyRnez-RW,https://openreview.net/pdf?id=HyRnez-RW
+298,N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning,,Anubhav Ashok;Nicholas Rhinehart;Fares Beainy;Kris M. Kitani,,Poster,https://openreview.net/forum?id=B1hcZZ-AW,https://openreview.net/pdf?id=B1hcZZ-AW
+299,Phase Conductor on Multi-layered Attentions for Machine Comprehension,,Rui Liu;Wei Wei;Weiguang Mao;Maria Chikina,,Reject,,
+300,Proximal Backpropagation,,Thomas Frerix;Thomas Möllenhoff;Michael Moeller;Daniel Cremers,,Poster,https://openreview.net/forum?id=ByeqORgAW,https://openreview.net/pdf?id=ByeqORgAW
+301,Quantitatively Evaluating GANs With Divergences Proposed for Training,,Daniel Jiwoong Im;He Ma;Graham W. Taylor;Kristin Branson,,Poster,https://openreview.net/forum?id=SJQHjzZ0-,https://openreview.net/pdf?id=SJQHjzZ0-
+302,Residual Connections Encourage Iterative Inference,,Stanisław Jastrzebski;Devansh Arpit;Nicolas Ballas;Vikas Verma;Tong Che;Yoshua Bengio,,Poster,https://openreview.net/forum?id=SJa9iHgAZ,https://openreview.net/pdf?id=SJa9iHgAZ
+303,SCAN: Learning Hierarchical Compositional Visual Concepts,,Irina Higgins;Nicolas Sonnerat;Loic Matthey;Arka Pal;Christopher P Burgess;Matko Bošnjak;Murray Shanahan;Matthew Botvinick;Demis Hassabis;Alexander Lerchner,,Poster,https://openreview.net/forum?id=rkN2Il-RZ,https://openreview.net/pdf?id=rkN2Il-RZ
+304,Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks,,Víctor Campos;Brendan Jou;Xavier Giró-i-Nieto;Jordi Torres;Shih-Fu Chang,,Poster,https://openreview.net/forum?id=HkwVAXyCW,https://openreview.net/pdf?id=HkwVAXyCW
+305,Sparse Deep Scattering Croisé Network,,Romain Cosentino;Randall Balestriero;Richard Baraniuk;Ankit Patel,,Withdraw,,
+306,Synthesizing realistic neural population activity patterns using Generative Adversarial Networks,,Manuel Molano-Mazon;Arno Onken;Eugenio Piasini*;Stefano Panzeri*,,Poster,https://openreview.net/forum?id=r1VVsebAZ,https://openreview.net/pdf?id=r1VVsebAZ
+307,The Variational Homoencoder: Learning to Infer High-Capacity Generative Models from Few Examples,,Luke Hewitt;Andrea Gane;Tommi Jaakkola;Joshua B. Tenenbaum,,Reject,,
+308,Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts,,Wei Wu;Can Xu;Yu Wu;Zhoujun Li,,Reject,,
+309,UCB EXPLORATION VIA Q-ENSEMBLES,,Richard Y. Chen;Szymon Sidor;Pieter Abbeel;John Schulman,,Reject,,
+310,Unsupervised Representation Learning by Predicting Image Rotations,,Spyros Gidaris;Praveer Singh;Nikos Komodakis,,Poster,https://openreview.net/forum?id=S1v4N2l0-,https://openreview.net/pdf?id=S1v4N2l0-
+311,Adaptive Quantization of Neural Networks,,Soroosh Khoram;Jing Li,,Poster,https://openreview.net/forum?id=SyOK1Sg0W,https://openreview.net/pdf?id=SyOK1Sg0W
+312,Boosting the Actor with Dual Critic,,Bo Dai;Albert Shaw;Niao He;Lihong Li;Le Song,,Poster,https://openreview.net/forum?id=BkUp6GZRW,https://openreview.net/pdf?id=BkUp6GZRW
+313,Compositional Obverter Communication Learning from Raw Visual Input,,Edward Choi;Angeliki Lazaridou;Nando de Freitas,,Poster,https://openreview.net/forum?id=rknt2Be0-,https://openreview.net/pdf?id=rknt2Be0-
+314,Consequentialist conditional cooperation in social dilemmas with imperfect information,,Alexander Peysakhovich;Adam Lerer,,Poster,https://openreview.net/forum?id=BkabRiQpb,https://openreview.net/pdf?id=BkabRiQpb
+315,Emergent Communication through Negotiation,,Kris Cao;Angeliki Lazaridou;Marc Lanctot;Joel Z Leibo;Karl Tuyls;Stephen Clark,,Poster,https://openreview.net/forum?id=Hk6WhagRW,https://openreview.net/pdf?id=Hk6WhagRW
+316,Exploring the Space of Black-box Attacks on Deep Neural Networks,,Arjun Nitin Bhagoji;Warren He;Bo Li;Dawn Song,,Reject,,
+317,Fidelity-Weighted Learning,,Mostafa Dehghani;Arash Mehrjou;Stephan Gouws;Jaap Kamps;Bernhard Schölkopf,,Poster,https://openreview.net/forum?id=B1X0mzZCW,https://openreview.net/pdf?id=B1X0mzZCW
+318,FigureQA: An Annotated Figure Dataset for Visual Reasoning,,Samira Ebrahimi Kahou;Adam Atkinson;Vincent Michalski;Ákos Kádár;Adam Trischler;Yoshua Bengio,,Workshop,,
+319,Jiffy: A Convolutional Approach to Learning Time Series Similarity,,Divya Shanmugam;Davis Blalock;John Guttag,,Reject,,
+320,Learning a neural response metric for retinal prosthesis,,Nishal P Shah;Sasidhar Madugula;EJ Chichilnisky;Yoram Singer;Jonathon Shlens,,Poster,https://openreview.net/forum?id=HJhIM0xAW,https://openreview.net/pdf?id=HJhIM0xAW
+321,Noisy Networks For Exploration,,Meire Fortunato;Mohammad Gheshlaghi Azar;Bilal Piot;Jacob Menick;Matteo Hessel;Ian Osband;Alex Graves;Volodymyr Mnih;Remi Munos;Demis Hassabis;Olivier Pietquin;Charles Blundell;Shane Legg,,Poster,https://openreview.net/forum?id=rywHCPkAW,https://openreview.net/pdf?id=rywHCPkAW
+322,Semantic Interpolation in Implicit Models,,Yannic Kilcher;Aurelien Lucchi;Thomas Hofmann,,Poster,https://openreview.net/forum?id=H15odZ-C-,https://openreview.net/pdf?id=H15odZ-C-
+323,Sparse Attentive Backtracking: Long-Range Credit Assignment in Recurrent Networks,,Nan Rosemary Ke;Anirudh Goyal;Olexa Bilaniuk;Jonathan Binas;Laurent Charlin;Chris Pal;Yoshua Bengio,,Reject,,
+324,Temporal Difference Models: Model-Free Deep RL for Model-Based Control,,Vitchyr Pong*;Shixiang Gu*;Murtaza Dalal;Sergey Levine,,Poster,https://openreview.net/forum?id=Skw0n-W0Z,https://openreview.net/pdf?id=Skw0n-W0Z
+325,The High-Dimensional Geometry of Binary Neural Networks,,Alexander G. Anderson;Cory P. Berg,,Poster,https://openreview.net/forum?id=B1IDRdeCW,https://openreview.net/pdf?id=B1IDRdeCW
+326,Training wide residual networks for deployment using a single bit for each weight,,Mark D. McDonnell,,Poster,https://openreview.net/forum?id=rytNfI1AZ,https://openreview.net/pdf?id=rytNfI1AZ
+327,Boundary Seeking GANs,,R Devon Hjelm;Athul Paul Jacob;Adam Trischler;Gerry Che;Kyunghyun Cho;Yoshua Bengio,,Poster,https://openreview.net/forum?id=rkTS8lZAb,https://openreview.net/pdf?id=rkTS8lZAb
+328,Can Neural Networks Understand Logical Entailment?,,Richard Evans;David Saxton;David Amos;Pushmeet Kohli;Edward Grefenstette,,Poster,https://openreview.net/forum?id=SkZxCk-0Z,https://openreview.net/pdf?id=SkZxCk-0Z
+329,Contextual Explanation Networks,,Maruan Al-Shedivat;Avinava Dubey;Eric P. Xing,,Reject,,
+330,Deep Generative Dual Memory Network for Continual Learning,,Nitin Kamra;Umang Gupta;Yan Liu,,Reject,,
+331,Distributional Adversarial Networks,,Chengtao Li;David Alvarez-Melis;Keyulu Xu;Stefanie Jegelka;Suvrit Sra,,Workshop,,
+332,Ensemble Adversarial Training: Attacks and Defenses,,Florian Tramèr;Alexey Kurakin;Nicolas Papernot;Ian Goodfellow;Dan Boneh;Patrick McDaniel,,Poster,https://openreview.net/forum?id=rkZvSe-RZ,https://openreview.net/pdf?id=rkZvSe-RZ
+333,GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets,,Jinsung Yoon;James Jordon;Mihaela van der Schaar,,Poster,https://openreview.net/forum?id=ByKWUeWA-,https://openreview.net/pdf?id=ByKWUeWA-
+334,Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning,,Tianmin Shu;Caiming Xiong;Richard Socher,,Poster,https://openreview.net/forum?id=SJJQVZW0b,https://openreview.net/pdf?id=SJJQVZW0b
+335,Large scale distributed neural network training through online distillation,,Rohan Anil;Gabriel Pereyra;Alexandre Passos;Robert Ormandi;George E. Dahl;Geoffrey E. Hinton,,Poster,https://openreview.net/forum?id=rkr1UDeC-,https://openreview.net/pdf?id=rkr1UDeC-
+336,Learning to diagnose from scratch by exploiting dependencies among labels,,Li Yao;Eric Poblenz;Dmitry Dagunts;Ben Covington;Devon Bernard;Kevin Lyman,,Reject,,
+337,Maximum a Posteriori Policy Optimisation,,Abbas Abdolmaleki;Jost Tobias Springenberg;Yuval Tassa;Remi Munos;Nicolas Heess;Martin Riedmiller,,Poster,https://openreview.net/forum?id=S1ANxQW0b,https://openreview.net/pdf?id=S1ANxQW0b
+338,Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks,,Shankar Krishnan;Ying Xiao;Rif. A. Saurous,,Poster,https://openreview.net/forum?id=rkLyJl-0-,https://openreview.net/pdf?id=rkLyJl-0-
+339,Not-So-CLEVR: Visual Relations Strain Feedforward Neural Networks,,Junkyung Kim;Matthew Ricci;Thomas Serre,,Workshop,,
+340,Orthogonal Recurrent Neural Networks with Scaled Cayley Transform,,Kyle Helfrich;Devin Willmott;Qiang Ye,,Reject,,
+341,Recursive Binary Neural Network Learning Model with 2-bit/weight Storage Requirement,,Tianchan Guan;Xiaoyang Zeng;Mingoo Seok,,Reject,,
+342,Robustness of Classifiers to Universal Perturbations: A Geometric Perspective,,Seyed-Mohsen Moosavi-Dezfooli;Alhussein Fawzi;Omar Fawzi;Pascal Frossard;Stefano Soatto,,Poster,https://openreview.net/forum?id=ByrZyglCb,https://openreview.net/pdf?id=ByrZyglCb
+343,Thermometer Encoding: One Hot Way To Resist Adversarial Examples,,Jacob Buckman;Aurko Roy;Colin Raffel;Ian Goodfellow,,Poster,https://openreview.net/forum?id=S18Su--CW,https://openreview.net/pdf?id=S18Su--CW
+344,CAYLEYNETS: SPECTRAL GRAPH CNNS WITH COMPLEX RATIONAL FILTERS,,Ron Levie;Federico Monti;Xavier Bresson;Michael M. Bronstein,,Reject,,
+345,Entropy-SGD optimizes the prior of a PAC-Bayes bound: Data-dependent PAC-Bayes priors via differential privacy,,Gintare Karolina Dziugaite;Daniel M. Roy,,Reject,,
+346,Feature Incay for Representation Regularization,,Yuhui Yuan;Kuiyuan Yang;Jianyuan Guo;Jingdong Wang;Chao Zhang,,Workshop,,
+347,Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis,,Rudy Bunel;Matthew Hausknecht;Jacob Devlin;Rishabh Singh;Pushmeet Kohli,,Poster,https://openreview.net/forum?id=H1Xw62kRZ,https://openreview.net/pdf?id=H1Xw62kRZ
+348,Transformation Autoregressive Networks,,Junier Oliva;Avinava Dubey;Barnabás Póczos;Eric P. Xing;Jeff Schneider,,Reject,,
+349,Variational Continual Learning,,Cuong V. Nguyen;Yingzhen Li;Thang D. Bui;Richard E. Turner,,Poster,https://openreview.net/forum?id=BkQqq0gRb,https://openreview.net/pdf?id=BkQqq0gRb
+350,Benefits of Depth for Long-Term Memory of Recurrent Networks,,Yoav Levine;Or Sharir;Amnon Shashua,,Workshop,,
+351,Decision Boundary Analysis of Adversarial Examples,,Warren He;Bo Li;Dawn Song,,Poster,https://openreview.net/forum?id=BkpiPMbA-,https://openreview.net/pdf?id=BkpiPMbA-
+352,Deep Lipschitz networks and Dudley GANs,,Ehsan Abbasnejad;Javen Shi;Anton van den Hengel,,Reject,,
+353,Exponentially vanishing sub-optimal local minima in multilayer neural networks,,Daniel Soudry;Elad Hoffer,,Workshop,,
+354,Sparse Persistent RNNs: Squeezing Large Recurrent Networks On-Chip,,Feiwen Zhu;Jeff Pool;Michael Andersch;Jeremy Appleyard;Fung Xie,,Poster,https://openreview.net/forum?id=HkxF5RgC-,https://openreview.net/pdf?id=HkxF5RgC-
+355,Stochastic Hyperparameter Optimization through Hypernetworks,,Jonathan Lorraine;David Duvenaud,,Reject,,
+356,Hierarchical Subtask Discovery with Non-Negative Matrix Factorization,,Adam C. Earle;Andrew M. Saxe;Benjamin Rosman,,Poster,https://openreview.net/forum?id=ry80wMW0W,https://openreview.net/pdf?id=ry80wMW0W
+357,Toward learning better metrics for sequence generation training with policy gradient,,Joji Toyama;Yusuke Iwasawa;Kotaro Nakayama;Yutaka Matsuo,,Reject,,
+358,Parametrized Hierarchical Procedures for Neural Programming,,Roy Fox;Richard Shin;Sanjay Krishnan;Ken Goldberg;Dawn Song;Ion Stoica,,Poster,https://openreview.net/forum?id=rJl63fZRb,https://openreview.net/pdf?id=rJl63fZRb
+359,Adversarially Regularized Autoencoders,,Junbo (Jake) Zhao;Yoon Kim;Kelly Zhang;Alexander M. Rush;Yann LeCun,,Workshop,,
+360,Learning Sparse Latent Representations with the Deep Copula Information Bottleneck,,Aleksander Wieczorek*;Mario Wieser*;Damian Murezzan;Volker Roth,,Poster,https://openreview.net/forum?id=Hk0wHx-RW,https://openreview.net/pdf?id=Hk0wHx-RW
+361,Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations,,Yiping Lu;Aoxiao Zhong;Quanzheng Li;Bin Dong,,Workshop,,
+362,Implicit Causal Models for Genome-wide Association Studies,,Dustin Tran;David M. Blei,,Poster,https://openreview.net/forum?id=SyELrEeAb,https://openreview.net/pdf?id=SyELrEeAb
+363,An information-theoretic analysis of deep latent-variable models,,Alex Alemi;Ben Poole;Ian Fischer;Josh Dillon;Rif A. Saurus;Kevin Murphy,,Reject,,
+364,Large Margin Neural Language Models,,Jiaji Huang;Yi Li;Wei Ping;Sanjeev Satheesh;Gregory Diamos,,Reject,,
+365,Building effective deep neural networks one feature at a time,,Martin Mundt;Tobias Weis;Kishore Konda;Visvanathan Ramesh,,Reject,,
+366,Building Generalizable Agents with a Realistic and Rich 3D Environment,,Yi Wu;Yuxin Wu;Georgia Gkioxari;Yuandong Tian,,Workshop,,
+367,Communication Algorithms via Deep Learning,,Hyeji Kim;Yihan Jiang;Ranvir B. Rana;Sreeram Kannan;Sewoong Oh;Pramod Viswanath,,Poster,https://openreview.net/forum?id=ryazCMbR-,https://openreview.net/pdf?id=ryazCMbR-
+368,Federated Learning: Strategies for Improving Communication Efficiency,,Jakub Konečný;H. Brendan McMahan;Felix X. Yu;Ananda Theertha Suresh;Dave Bacon;Peter Richtárik,,Reject,,
+369,GraphGAN: Generating Graphs via Random Walks,,Aleksandar Bojchevski;Oleksandr Shchur;Daniel Zügner;Stephan Günnemann,,Reject,,
+370,Hierarchical Adversarially Learned Inference,,Mohamed Ishmael Belghazi;Sai Rajeswar;Olivier Mastropietro;Negar Rostamzadeh;Jovana Mitrovic;Aaron Courville,,Reject,,
+371,Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect,,Xiang Wei;Boqing Gong;Zixia Liu;Wei Lu;Liqiang Wang,,Poster,https://openreview.net/forum?id=SJx9GQb0-,https://openreview.net/pdf?id=SJx9GQb0-
+372,Multi-Task Learning by Deep Collaboration and Application in Facial Landmark Detection,,Ludovic Trottier;Philippe Giguère;Brahim Chaib-draa,,Reject,,
+373,Natural Language Inference over Interaction Space,,Yichen Gong;Heng Luo;Jian Zhang,,Poster,https://openreview.net/forum?id=r1dHXnH6-,https://openreview.net/pdf?id=r1dHXnH6-
+374,Not-So-Random Features,,Brian Bullins;Cyril Zhang;Yi Zhang,,Poster,https://openreview.net/forum?id=Hk8XMWgRb,https://openreview.net/pdf?id=Hk8XMWgRb
+375,Policy Optimization by Genetic Distillation,,Tanmay Gangwani;Jian Peng,,Poster,https://openreview.net/forum?id=ByOnmlWC-,https://openreview.net/pdf?id=ByOnmlWC-
+376,Revisiting Bayes by Backprop,,Meire Fortunato;Charles Blundell;Oriol Vinyals,,Reject,,
+377,Semi-parametric topological memory for navigation,,Nikolay Savinov;Alexey Dosovitskiy;Vladlen Koltun,,Poster,https://openreview.net/forum?id=SygwwGbRW,https://openreview.net/pdf?id=SygwwGbRW
+378,Some Considerations on Learning to Explore via Meta-Reinforcement Learning,,Bradly Stadie;Ge Yang;Rein Houthooft;Xi Chen;Yan Duan;Yuhuai Wu;Pieter Abbeel;Ilya Sutskever,,Workshop,,
+379,Training Autoencoders by Alternating Minimization,,Sneha Kudugunta;Adepu Shankar;Surya Chavali;Vineeth Balasubramanian;Purushottam Kar,,Reject,,
+380,TreeQN and ATreeC: Differentiable Tree-Structured Models for Deep Reinforcement Learning,,Gregory Farquhar;Tim Rocktäschel;Maximilian Igl;Shimon Whiteson,,Poster,https://openreview.net/forum?id=H1dh6Ax0Z,https://openreview.net/pdf?id=H1dh6Ax0Z
+381,Withdrawn,,withdrawn.,,Withdraw,,
+382,Auxiliary Guided Autoregressive Variational Autoencoders,,Thomas Lucas;Jakob Verbeek,,Reject,,
+383,Avoiding Catastrophic States with Intrinsic Fear,,Zachary C. Lipton;Kamyar Azizzadenesheli;Abhishek Kumar;Lihong Li;Jianfeng Gao;Li Deng,,Reject,,
+384,Bias-Variance Decomposition for Boltzmann Machines,,Mahito Sugiyama;Koji Tsuda;Hiroyuki Nakahara,,Reject,,
+385,Byte-Level Recursive Convolutional Auto-Encoder for Text,,Xiang Zhang;Yann LeCun,,Reject,,
+386,Cascade Adversarial Machine Learning Regularized with a Unified Embedding,,Taesik Na;Jong Hwan Ko;Saibal Mukhopadhyay,,Poster,https://openreview.net/forum?id=HyRVBzap-,https://openreview.net/pdf?id=HyRVBzap-
+387,Deep contextualized word representations,,Matthew E Peters;Mark Neumann;Mohit Iyyer;Matt Gardner;Christopher Clark;Kenton Lee;Luke Zettlemoyer,,Poster,,
+388,Faster Reinforcement Learning with Expert State Sequences,,Xiaoxiao Guo;Shiyu Chang;Mo Yu;Miao Liu;Gerald Tesauro,,Reject,,
+389,Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction,,Da Xiao;Jo-Yu Liao;Xingyuan Yuan,,Poster,https://openreview.net/forum?id=rJlMAAeC-,https://openreview.net/pdf?id=rJlMAAeC-
+390,Learn to Pay Attention,,Saumya Jetley;Nicholas A. Lord;Namhoon Lee;Philip H. S. Torr,,Poster,https://openreview.net/forum?id=HyzbhfWRW,https://openreview.net/pdf?id=HyzbhfWRW
+391,Learnability of Learned Neural Networks,,Rahul Anand Sharma;Navin Goyal;Monojit Choudhury;Praneeth Netrapalli,,Reject,,
+392,Learning Deep Models: Critical Points and Local Openness,,Maher Nouiehed;Meisam Razaviyayn,,Workshop,,
+393,Lifelong Generative Modeling,,Jason Ramapuram;Magda Gregorova;Alexandros Kalousis,,Reject,,
+394,Log-DenseNet: How to Sparsify a DenseNet,,Hanzhang Hu;Debadeepta Dey;Allie Del Giorno;Martial Hebert;J. Andrew Bagnell,,Reject,,
+395,Multi-Task Learning for Document Ranking and Query Suggestion,,Wasi Uddin Ahmad;Kai-Wei Chang;Hongning Wang,,Poster,https://openreview.net/forum?id=SJ1nzBeA-,https://openreview.net/pdf?id=SJ1nzBeA-
+396,"Progressive Growing of GANs for Improved Quality, Stability, and Variation",,Tero Karras;Timo Aila;Samuli Laine;Jaakko Lehtinen,,Oral,https://openreview.net/forum?id=Hk99zCeAb,https://openreview.net/pdf?id=Hk99zCeAb
+397,Quadrature-based features for kernel approximation,,Marina Munkhoeva;Yermek Kapushev;Evgeny Burnaev;Ivan Oseledets,,Reject,,
+398,Sensitivity and Generalization in Neural Networks: an Empirical Study,,Roman Novak;Yasaman Bahri;Daniel A. Abolafia;Jeffrey Pennington;Jascha Sohl-Dickstein,,Poster,https://openreview.net/forum?id=HJC2SzZCW,https://openreview.net/pdf?id=HJC2SzZCW
+399,SpectralNet: Spectral Clustering using Deep Neural Networks,,Uri Shaham;Kelly Stanton;Henry Li;Ronen Basri;Boaz Nadler;Yuval Kluger,,Poster,https://openreview.net/forum?id=HJ_aoCyRZ,https://openreview.net/pdf?id=HJ_aoCyRZ
+400,UNSUPERVISED SENTENCE EMBEDDING USING DOCUMENT STRUCTURE-BASED CONTEXT,,Taesung Lee;Youngja Park,,Reject,,
+401,Variance-based Gradient Compression for Efficient Distributed Deep Learning,,Yusuke Tsuzuku;Hiroto Imachi;Takuya Akiba,,Workshop,,
+402,WSNet: Learning Compact and Efficient Networks with Weight Sampling,,Xiaojie Jin;Yingzhen Yang;Ning Xu;Jianchao Yang;Jiashi Feng;Shuicheng Yan,,Workshop,,
+403,“Style” Transfer for Musical Audio Using Multiple Time-Frequency Representations,,Shaun Barry;Youngmoo Kim,,Reject,,
+404,A Bayesian Perspective on Generalization and Stochastic Gradient Descent,,Samuel L. Smith and Quoc V. Le;Samuel L. Smith and Quoc V. Le,,Poster,https://openreview.net/forum?id=BJij4yg0Z,https://openreview.net/pdf?id=BJij4yg0Z
+405,Block-Sparse Recurrent Neural Networks,,Sharan Narang;Eric Undersander;Gregory Diamos,,Reject,,
+406,Censoring Representations with Multiple-Adversaries over Random Subspaces,,Yusuke Iwasawa;Kotaro Nakayama;Yutaka Matsuo,,Reject,,
+407,Code Synthesis with Priority Queue Training,,Daniel A. Abolafia;Quoc V. Le;Mohammad Norouzi,,Reject,,
+408,Convolutional Sequence Modeling Revisited,,Shaojie Bai;J. Zico Kolter;Vladlen Koltun,,Workshop,,
+409,Deep learning mutation prediction enables early stage lung cancer detection in liquid biopsy,,Steven T. Kothen-Hill;Asaf Zviran;Rafael C. Schulman;Sunil Deochand;Federico Gaiti;Dillon Maloney;Kevin Y. Huang;Will Liao;Nicolas Robine;Nathaniel D. Omans;Dan A. Landau,,Workshop,,
+410,Deep Neural Networks as Gaussian Processes,,Jaehoon Lee;Yasaman Bahri;Roman Novak;Samuel S. Schoenholz;Jeffrey Pennington;Jascha Sohl-Dickstein,,Poster,https://openreview.net/forum?id=B1EA-M-0Z,https://openreview.net/pdf?id=B1EA-M-0Z
+411,DLVM: A modern compiler infrastructure for deep learning systems,,Richard Wei;Lane Schwartz;Vikram Adve,,Workshop,,
+412,Dynamic Evaluation of Neural Sequence Models,,Ben Krause;Emmanuel Kahembwe;Iain Murray;Steve Renals,,Reject,,
+413,"Fast and Accurate Text Classification: Skimming, Rereading and Early Stopping",,Keyi Yu;Yang Liu;Alexander G. Schwing;Jian Peng,,Workshop,,
+414,Flexible Prior Distributions for Deep Generative Models,,Yannic Kilcher;Aurelien Lucchi;Thomas Hofmann,,Reject,,
+415,Generating Adversarial Examples with Adversarial Networks,,Chaowei Xiao;Bo Li;Jun-Yan Zhu;Warren He;Mingyan Liu;Dawn Song,,Reject,,
+416,Latent Space Oddity: on the Curvature of Deep Generative Models,,Georgios Arvanitidis;Lars Kai Hansen;Søren Hauberg,,Poster,https://openreview.net/forum?id=SJzRZ-WCZ,https://openreview.net/pdf?id=SJzRZ-WCZ
+417,Learning Gaussian Policies from Smoothed Action Value Functions,,Ofir Nachum;Mohammad Norouzi;George Tucker;Dale Schuurmans,,Reject,,
+418,Learning to Compute Word Embeddings On the Fly,,Dzmitry Bahdanau;Tom Bosc;Stanisław Jastrzębski;Edward Grefenstette;Pascal Vincent;Yoshua Bengio,,Reject,,
+419,Multiscale Hidden Markov Models For Covariance Prediction,,João Sedoc;Jordan Rodu;Dean Foster;Lyle Ungar,,Reject,,
+420,Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization,,Jiong Zhang;Qi Lei;Inderjit S. Dhillon,,Reject,,
+421,Stable Distribution Alignment Using the Dual of the Adversarial Distance,,Ben Usman;Kate Saenko;Brian Kulis,,Workshop,,
+422,Variational Bi-LSTMs,,Samira Shabanian;Devansh Arpit;Adam Trischler;Yoshua Bengio,,Reject,,
+423,Better Generalization by Efficient Trust Region Method,,Xuanqing Liu;Jason D. Lee;Cho-Jui Hsieh,,Reject,,
+424,Demystifying MMD GANs,,Mikołaj Bińkowski;Danica J. Sutherland;Michael Arbel;Arthur Gretton,,Poster,https://openreview.net/forum?id=r1lUOzWCW,https://openreview.net/pdf?id=r1lUOzWCW
+425,Guide Actor-Critic for Continuous Control,,Voot Tangkaratt;Abbas Abdolmaleki;Masashi Sugiyama,,Poster,https://openreview.net/forum?id=BJk59JZ0b,https://openreview.net/pdf?id=BJk59JZ0b
+426,Improving GAN Training via Binarized Representation Entropy (BRE) Regularization,,Yanshuai Cao;Gavin Weiguang Ding;Kry Yik-Chau Lui;Ruitong Huang,,Poster,https://openreview.net/forum?id=BkLhaGZRW,https://openreview.net/pdf?id=BkLhaGZRW
+427,Learning Deep Generative Models of Graphs,,Yujia Li;Oriol Vinyals;Chris Dyer;Razvan Pascanu;Peter Battaglia,,Workshop,,
+428,Learning Priors for Adversarial Autoencoders,,Hui-Po Wang;Wei-Jan Ko;Wen-Hsiao Peng,,Reject,,
+429,Learning temporal evolution of probability distribution with Recurrent Neural Network,,Kyongmin Yeo;Igor Melnyk;Nam Nguyen;Eun Kyung Lee,,Reject,,
+430,Learning to Optimize Neural Nets,,Ke Li;Jitendra Malik,,Reject,,
+431,META LEARNING SHARED HIERARCHIES,,Kevin Frans;Jonathan Ho;Xi Chen;Pieter Abbeel;John Schulman,,Poster,https://openreview.net/forum?id=SyX0IeWAW,https://openreview.net/pdf?id=SyX0IeWAW
+432,Minimax Curriculum Learning: Machine Teaching with Desirable Difficulties and Scheduled Diversity,,Tianyi Zhou;Jeff Bilmes,,Poster,https://openreview.net/forum?id=BywyFQlAW,https://openreview.net/pdf?id=BywyFQlAW
+433,Small Coresets to Represent Large Training Data for Support Vector Machines,,Cenk Baykal;Murad Tukan;Dan Feldman;Daniela Rus,,Reject,,
+434,WHAI: Weibull Hybrid Autoencoding Inference for Deep Topic Modeling,,Hao Zhang;Bo Chen;Dandan Guo;Mingyuan Zhou,,Poster,https://openreview.net/forum?id=S1cZsf-RW,https://openreview.net/pdf?id=S1cZsf-RW
+435,Anytime Neural Network: a Versatile Trade-off Between Computation and Accuracy,,Hanzhang Hu;Debadeepta Dey;Martial Hebert;J. Andrew Bagnell,,Reject,,
+436,Auto-Encoding Sequential Monte Carlo,,Tuan Anh Le;Maximilian Igl;Tom Rainforth;Tom Jin;Frank Wood,,Poster,https://openreview.net/forum?id=BJ8c3f-0b,https://openreview.net/pdf?id=BJ8c3f-0b
+437,Can Deep Reinforcement Learning solve Erdos-Selfridge-Spencer Games?,,Maithra Raghu;Alex Irpan;Jacob Andreas;Robert Kleinberg;Quoc Le;Jon Kleinberg,,Workshop,,
+438,Empirical Risk Landscape Analysis for Understanding Deep Neural Networks,,Pan Zhou;Jiashi Feng,,Poster,https://openreview.net/forum?id=B1QgVti6Z,https://openreview.net/pdf?id=B1QgVti6Z
+439,Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design,,Daniel Neil;Marwin Segler;Laura Guasch;Mohamed Ahmed;Dean Plumbley;Matthew Sellwood;Nathan Brown,,Workshop,,
+440,Graph Partition Neural Networks for Semi-Supervised Classification,,Renjie Liao;Marc Brockschmidt;Daniel Tarlow;Alexander Gaunt;Raquel Urtasun;Richard S. Zemel,,Workshop,,
+441,Network Iterative Learning for Dynamic Deep Neural Networks via Morphism,,Tao Wei;Changhu Wang;Chang Wen Chen,,Reject,,
+442,Value Propagation Networks,,Nantas Nardelli;Gabriel Synnaeve;Zeming Lin;Pushmeet Kohli;Nicolas Usunier,,Workshop,,
+443,Matrix capsules with EM routing,,Geoffrey E Hinton;Sara Sabour;Nicholas Frosst,,Poster,https://openreview.net/forum?id=HJWLfGWRb,https://openreview.net/pdf?id=HJWLfGWRb
+444,Deep Mean Field Theory: Layerwise Variance and Width Variation as Methods to Control Gradient Explosion,,Greg Yang;Sam S. Schoenholz,,Workshop,,
+445,The loss surface and expressivity of deep convolutional neural networks,,Quynh Nguyen;Matthias Hein,,Workshop,,
+446,COLD FUSION: TRAINING SEQ2SEQ MODELS TOGETHER WITH LANGUAGE MODELS,,Anuroop Sriram;Heewoo Jun;Sanjeev Satheesh;Adam Coates,,Workshop,,
+447,AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks,,Alexander L. Gaunt;Matthew A. Johnson;Alan Lawrence;Maik Riechert;Daniel Tarlow;Ryota Tomioka;Dimitrios Vytiniotis;Sam Webster,,Reject,,
+448,LSH-SAMPLING BREAKS THE COMPUTATIONAL CHICKEN-AND-EGG LOOP IN ADAPTIVE STOCHASTIC GRADIENT ESTIMATION,,Beidi Chen;Yingchen Xu;Anshumali Shrivastava,,Workshop,,
+449,Searching for Activation Functions,,Prajit Ramachandran;Barret Zoph;Quoc V. Le,,Workshop,,
+450,SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning,,Xiaojun Xu;Chang Liu;Dawn Song,,Reject,,
+451,Analyzing and Exploiting NARX Recurrent Neural Networks for Long-Term Dependencies,,Robert DiPietro;Christian Rupprecht;Nassir Navab;Gregory D. Hager,,Workshop,,
+452,AUTOMATED DESIGN USING NEURAL NETWORKS AND GRADIENT DESCENT,,Oliver Hennigh,,Workshop,,
+453,Bounding and Counting Linear Regions of Deep Neural Networks,,Thiago Serra;Christian Tjandraatmadja;Srikumar Ramalingam,,Reject,,
+454,Capturing Human Category Representations by Sampling in Deep Feature Spaces,,Joshua Peterson;Krishan Aghi;Jordan Suchow;Alexander Ku;Tom Griffiths,,Workshop,,
+455,Exploring Asymmetric Encoder-Decoder Structure for Context-based Sentence Representation Learning,,Shuai Tang;Hailin Jin;Chen Fang;Zhaowen Wang;Virginia R. de Sa,,Reject,,
+456,Exploring the Hidden Dimension in Accelerating Convolutional Neural Networks,,Zhihao Jia;Sina Lin;Charles R. Qi;Alex Aiken,,Reject,,
+457,Learning to Infer,,Joseph Marino;Yisong Yue;Stephan Mandt,,Workshop,,
+458,Massively Parallel Hyperparameter Tuning,,Lisha Li;Kevin Jamieson;Afshin Rostamizadeh;Katya Gonina;Moritz Hardt;Benjamin Recht;Ameet Talwalkar,,Reject,,
+459,Pixel Deconvolutional Networks,,Hongyang Gao;Hao Yuan;Zhengyang Wang;Shuiwang Ji,,Reject,,
+460,Regret Minimization for Partially Observable Deep Reinforcement Learning,,Peter H. Jin;Sergey Levine;Kurt Keutzer,,Workshop,,
+461,Sparse-Complementary Convolution for Efficient Model Utilization on CNNs,,Chun-Fu (Richard) Chen;Jinwook Oh;Quanfu Fan;Marco Pistoia;Gwo Giun (Chris) Lee,,Reject,,
+462,Stabilizing GAN Training with Multiple Random Projections,,Behnam Neyshabur;Srinadh Bhojanapalli;Ayan Chakrabarti,,Reject,,
+463,Unleashing the Potential of CNNs for Interpretable Few-Shot Learning,,Boyang Deng;Qing Liu;Siyuan Qiao;Alan Yuille,,Reject,,
+464,A Painless Attention Mechanism for Convolutional Neural Networks,,Pau Rodríguez;Guillem Cucurull;Jordi Gonzàlez;Josep M. Gonfaus;Xavier Roca,,Reject,,
+465,Accelerating Neural Architecture Search using Performance Prediction,,Bowen Baker*;Otkrist Gupta*;Ramesh Raskar;Nikhil Naik,,Workshop,,
+466,Adaptive Memory Networks,,Daniel Li;Asim Kadav,,Workshop,,
+467,BLOCK-DIAGONAL HESSIAN-FREE OPTIMIZATION FOR TRAINING NEURAL NETWORKS,,Huishuai Zhang;Caiming Xiong;James Bradbury;Richard Socher,,Reject,,
+468,Composable Planning with Attributes,,Amy Zhang;Adam Lerer;Sainbayar Sukhbaatar;Rob Fergus;Arthur Szlam,,Reject,,
+469,Deep Continuous Clustering,,Sohil Atul Shah;Vladlen Koltun,,Reject,,
+470,Discovering the mechanics of hidden neurons,,Simon Carbonnelle;Christophe De Vleeschouwer,,Reject,,
+471,Efficient Exploration through Bayesian Deep Q-Networks,,Kamyar Azizzadenesheli;Emma Brunskill;Animashree Anandkumar,,Reject,,
+472,Ensemble Robustness and Generalization of Stochastic Deep Learning Algorithms,,Tom Zahavy;Bingyi Kang;Alex Sivak;Jiashi Feng;Huan Xu;Shie Mannor,,Workshop,,
+473,Grouping-By-ID: Guarding Against Adversarial Domain Shifts,,Christina Heinze-Deml;Nicolai Meinshausen,,Reject,,
+474,Learning Independent Causal Mechanisms,,Giambattista Parascandolo;Mateo Rojas Carulla;Niki Kilbertus;Bernhard Schoelkopf,,Reject,,
+475,Learning Sparse Structured Ensembles with SG-MCMC and Network Pruning,,Yichi Zhang;Zhijian Ou,,Reject,,
+476,Modeling Latent Attention Within Neural Networks,,Christopher Grimm;Dilip Arumugam;Siddharth Karamcheti;David Abel;Lawson L.S. Wong;Michael L. Littman,,Reject,,
+477,Neural Compositional Denotational Semantics for Question Answering,,Nitish Gupta;Mike Lewis,,Reject,,
+478,Neural Program Search: Solving Data Processing Tasks from Description and Examples,,Illia Polosukhin;Alexander Skidanov,,Workshop,,
+479,Neuron as an Agent,,Shohei Ohsawa;Kei Akuzawa;Tatsuya Matsushima;Gustavo Bezerra;Yusuke Iwasawa;Hiroshi Kajino;Seiya Takenaka;Yutaka Matsuo,,Workshop,,
+480,On the Discrimination-Generalization Tradeoff in GANs,,Pengchuan Zhang;Qiang Liu;Dengyong Zhou;Tao Xu;Xiaodong He,,Poster,https://openreview.net/forum?id=Hk9Xc_lR-,https://openreview.net/pdf?id=Hk9Xc_lR-
+481,Policy Gradient For Multidimensional Action Spaces: Action Sampling and Entropy Bonus,,Vuong Ho Quan;Yiming Zhang;Kenny Song;Xiao-Yue Gong;Keith W. Ross,,Reject,,
+482,Regularization Neural Networks via Constrained Virtual Movement Field,,Zhendong Zhang;Cheolkon Jung,,Workshop,,
+483,Reinforcement Learning from Imperfect Demonstrations,,Yang Gao;Huazhe(Harry) Xu;Ji Lin;Fisher Yu;Sergey Levine;Trevor Darrell,,Workshop,,
+484,Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior,,Charles H. Martin;Michael W. Mahoney,,Reject,,
+485,Semantic Code Repair using Neuro-Symbolic Transformation Networks,,Jacob Devlin;Jonathan  Uesato;Rishabh Singh;Pushmeet Kohli,,Workshop,,
+486,STRUCTURED ALIGNMENT NETWORKS,,Yang Liu;Matt Gardner,,Reject,,
+487,Tandem Blocks in Deep Convolutional Neural Networks,,Chris Hettinger;Tanner Christensen;Jeff Humpherys;Tyler J Jarvis,,Reject,,
+488,TRUNCATED HORIZON POLICY SEARCH: COMBINING REINFORCEMENT LEARNING & IMITATION LEARNING,,Wen Sun;J. Andrew Bagnell;Byron Boots,,Poster,https://openreview.net/forum?id=ryUlhzWCZ,https://openreview.net/pdf?id=ryUlhzWCZ
+489,Understanding Grounded Language Learning Agents,,Felix Hill;Karl Moritz Hermann;Phil Blunsom;Stephen Clark,,Reject,,
+490,Variance Regularized Counterfactual Risk Minimization via Variational Divergence Minimization,,Hang Wu;Hang Wu,,Reject,,
+491,Weightless: Lossy Weight Encoding For Deep Neural Network Compression,,Brandon Reagen;Udit Gupta;Robert Adolf;Michael Mitzenmacher;Alexander Rush;Gu-Yeon Wei;David Brooks,,Workshop,,
+492,Bayesian Uncertainty Estimation for Batch Normalized Deep Networks,,Mattias Teye;Hossein Azizpour;Kevin Smith,,Reject,,
+493,Character Level Based Detection of DGA Domain Names,,Bin Yu;Jie Pan;Jiaming Hu;Anderson Nascimento;Martine De Cock,,Reject,,
+494,Correcting Nuisance Variation using Wasserstein Distance,,Gil Tabak;Minjie Fan;Samuel J. Yang;Stephan Hoyer;Geoff Davis,,Reject,,
+495,Deterministic Policy Imitation Gradient Algorithm,,Fumihiro Sasaki;Atsuo Kawaguchi,,Reject,,
+496,Discrete Sequential Prediction of Continuous Actions for Deep RL,,Luke Metz;Julian Ibarz;Navdeep Jaitly;James Davidson,,Reject,,
+497,DNN Feature Map Compression using Learned Representation over GF(2),,Denis A. Gudovskiy;Alec Hodgkinson;Luca Rigazio,,Reject,,
+498,Dynamic Integration of Background Knowledge in Neural NLU Systems,,Dirk Weissenborn;Tomas Kocisky;Chris Dyer,,Reject,,
+499,Fast and Accurate Inference with Adaptive Ensemble Prediction for Deep Networks,,Hiroshi Inoue,,Reject,,
+500,FAST READING COMPREHENSION WITH CONVNETS,,Felix Wu;Ni Lao;John Blitzer;Guandao Yang;Kilian Weinberger,,Reject,,
+501,Gaussian Process Neurons,,Sebastian Urban;Patrick van der Smagt,,Reject,,
+502,Identifying Analogies Across Domains,,Yedid Hoshen;Lior Wolf,,Poster,https://openreview.net/forum?id=BkN_r2lR-,https://openreview.net/pdf?id=BkN_r2lR-
+503,Imitation Learning from Visual Data with Multiple Intentions,,Aviv Tamar;Khashayar Rohanimanesh;Yinlam Chow;Chris Vigorito;Ben Goodrich;Michael Kahane;Derik Pridmore,,Poster,https://openreview.net/forum?id=Hk3ddfWRW,https://openreview.net/pdf?id=Hk3ddfWRW
+504,Investigating Human Priors for Playing Video Games,,Rachit Dubey;Pulkit Agrawal;Deepak Pathak;Thomas L. Griffiths;Alexei A. Efros,,Workshop,,
+505,Learning Efficient Tensor Representations with Ring Structure Networks,,Qibin Zhao;Masashi Sugiyama;Longhao Yuan;Andrzej Cichocki,,Workshop,,
+506,Learning to Mix n-Step Returns: Generalizing Lambda-Returns for Deep Reinforcement Learning,,Sahil Sharma;Girish Raguvir J *;Srivatsan Ramesh *;Balaraman Ravindran,,Reject,,
+507,Learning to search with MCTSnets,,Arthur Guez;Theophane Weber;Ioannis Antonoglou;Karen Simonyan;Oriol Vinyals;Daan Wierstra;Remi Munos;David Silver,,Reject,,
+508,Network of Graph Convolutional Networks Trained on Random Walks,,Sami Abu-El-Haija;Amol Kapoor;Bryan Perozzi;Joonseok Lee,,Reject,,
+509,Neural Task Graph Execution,,Sungryull Sohn;Junhyuk Oh;Honglak Lee,,Reject,,
+510,Optimizing the Latent Space of Generative Networks,,Piotr Bojanowski;Armand Joulin;David Lopez-Paz;Arthur Szlam,,Reject,,
+511,Principled Hybrids of Generative and Discriminative Domain Adaptation,,Han Zhao;Zhenyao Zhu;Junjie Hu;Adam Coates;Geoff Gordon,,Reject,,
+512,Residual Gated Graph ConvNets,,Xavier Bresson;Thomas Laurent,,Reject,,
+513,Semi-Supervised Learning via New Deep Network Inversion,,Balestriero R.;Roger V.;Glotin H.;Baraniuk R.,,Reject,,
+514,SIC-GAN: A Self-Improving Collaborative GAN for Decoding Sketch RNNs,,Chi-Chun Chuang;Zheng-Xin Weng;Shan-Hung Wu,,Reject,,
+515,Structured Exploration via Hierarchical Variational Policy Networks,,Stephan Zheng;Yisong Yue,,Reject,,
+516,Towards Binary-Valued Gates for Robust LSTM Training,,Zhuohan Li;Di He;Fei Tian;Wei Chen;Tao Qin;Liwei Wang;Tie-Yan Liu,,Reject,,
+517,Unbiasing Truncated Backpropagation Through Time,,Corentin Tallec;Yann Ollivier,,Reject,,
+518,Understanding image motion with group representations,,Andrew Jaegle;Stephen Phillips;Daphne Ippolito;Kostas Daniilidis,,Poster,https://openreview.net/forum?id=SJLlmG-AZ,https://openreview.net/pdf?id=SJLlmG-AZ
+519,A Deep Learning Approach for Survival Clustering without End-of-life Signals,,S Chandra Mouli;Bruno Ribeiro;Jennifer Neville,,Reject,,
+520,A Semantic Loss Function for Deep Learning with Symbolic Knowledge,,Jingyi Xu;Zilu Zhang;Tal Friedman;Yitao Liang;Guy Van den Broeck,,Reject,,
+521,A Spectral Approach to Generalization and Optimization in Neural Networks,,Farzan Farnia;Jesse Zhang;David Tse,,Reject,,
+522,Baseline-corrected space-by-time non-negative matrix factorization for decoding single trial population spike trains,,Arezoo Alizadeh;Marion Mutter;Thomas Münch;Arno Onken;Stefano Panzeri,,Reject,,
+523,Challenges in Disentangling Independent Factors of Variation,,Attila  Szabo;Qiyang  Hu;Tiziano  Portenier;Matthias  Zwicker;Paolo  Favaro,,Workshop,,
+524,Cheap DNN Pruning with Performance Guarantees,,Konstantinos Pitas;Mike Davies;Pierre Vandergheynst,,Reject,,
+525,Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach,,Pierre Courtiol;Eric W. Tramel;Marc Sanselme;Gilles Wainrib,,Reject,,
+526,DropMax: Adaptive Stochastic Softmax,,Hae Beom Lee;Juho Lee;Eunho Yang;Sung Ju Hwang,,Workshop,,
+527,Ensemble Methods as a Defense to Adversarial Perturbations Against Deep Neural Networks,,Thilo Strauss;Markus Hanselmann;Andrej Junginger;Holger Ulmer,,Reject,,
+528,Feat2Vec: Dense Vector Representation for Data with Arbitrary Features,,Luis Armona;José P. González-Brenes;Ralph Edezhath,,Reject,,
+529,Fraternal Dropout,,Konrad Zolna;Devansh Arpit;Dendi Suhubdy;Yoshua Bengio,,Poster,https://openreview.net/forum?id=SJyVzQ-C-,https://openreview.net/pdf?id=SJyVzQ-C-
+530,Global Convergence of Policy Gradient Methods for Linearized Control Problems,,Maryam Fazel;Rong Ge;Sham M. Kakade;Mehran Mesbahi,,Reject,,
+531,Learning to Count Objects in Natural Images for Visual Question Answering,,Yan Zhang;Jonathon Hare;Adam Prügel-Bennett,,Poster,https://openreview.net/forum?id=B12Js_yRb,https://openreview.net/pdf?id=B12Js_yRb
+532,Loss Functions for Multiset Prediction,,Sean Welleck;Zixin Yao;Yu Gai;Jialin Mao;Zheng Zhang;Kyunghyun Cho,,Reject,,
+533,MACHINE VS MACHINE: MINIMAX-OPTIMAL DEFENSE AGAINST ADVERSARIAL EXAMPLES,,Jihun Hamm,,Reject,,
+534,On the limitations of first order approximation in GAN dynamics,,Jerry Li;Aleksander Madry;John Peebles;Ludwig Schmidt,,Workshop,,
+535,Optimal transport maps for distribution preserving operations on latent spaces of Generative Models,,Eirikur Agustsson;Alexander Sage;Radu Timofte;Luc Van Gool,,Reject,,
+536,The Cramer Distance as a Solution to Biased Wasserstein Gradients,,Marc G. Bellemare;Ivo Danihelka;Will Dabney;Shakir Mohamed;Balaji Lakshminarayanan;Stephan Hoyer;Remi Munos,,Reject,,
+537,Towards Provable Control for Unknown Linear Dynamical Systems,,Sanjeev Arora;Elad Hazan;Holden Lee;Karan Singh;Cyril Zhang;Yi Zhang,,Workshop,,
+538,An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems.,,Yiping Song;Rui Yan;Cheng-Te Li;Jian-Yun Nie;Ming Zhang;Dongyan Zhao,,Reject,,
+539,Discrete-Valued Neural Networks Using Variational Inference,,Wolfgang Roth;Franz Pernkopf,,Reject,,
+540,Image Quality Assessment Techniques Improve Training and Evaluation of Energy-Based Generative Adversarial Networks,,Michael O. Vertolli;Jim Davies,,Reject,,
+541,Intriguing Properties of Adversarial Examples,,Ekin Dogus Cubuk;Barret Zoph;Samuel Stern Schoenholz;Quoc V. Le,,Workshop,,
+542,No Spurious Local Minima in a Two Hidden Unit ReLU Network,,Chenwei Wu;Jiajun Luo;Jason D. Lee,,Workshop,,
+543,On the difference between building and extracting patterns: a causal analysis of deep generative models.,,Michel Besserve;Dominik Janzing;Bernhard Schoelkopf,,Reject,,
+544,Softmax Q-Distribution Estimation for Structured Prediction: A Theoretical Interpretation for RAML,,Xuezhe Ma;Pengcheng Yin;Jingzhou Liu;Graham Neubig;Eduard Hovy,,Reject,,
+545,Transfer Learning to Learn with Multitask Neural Model Search,,Catherine Wong;Andrea Gesmundo,,Reject,,
+546,Trust-PCL: An Off-Policy Trust Region Method for Continuous Control,,Ofir Nachum;Mohammad Norouzi;Kelvin Xu;Dale Schuurmans,,Poster,https://openreview.net/forum?id=HyrCWeWCb,https://openreview.net/pdf?id=HyrCWeWCb
+547,Covariant Compositional Networks For Learning Graphs,,Risi Kondor;Truong Son Hy;Horace Pan;Brandon M. Anderson;Shubhendu Trivedi,,Workshop,,
+548,Faster Discovery of Neural Architectures by Searching for Paths in a Large Model,,Hieu Pham;Melody Y. Guan;Barret Zoph;Quoc V. Le;Jeff Dean,,Workshop,,
+549,Gradients explode - Deep Networks are shallow - ResNet explained,,George Philipp;Dawn Song;Jaime G. Carbonell,,Workshop,,
+550,DDRprog: A CLEVR Differentiable Dynamic Reasoning Programmer,,Joseph Suarez;Justin Johnson;L. Fei-Fei,,Reject,,
+551,Natural Language Inference with External Knowledge,,Qian Chen;Xiaodan Zhu;Zhen-Hua Ling;Diana Inkpen,,Workshop,,
+552,BLOCK-NORMALIZED GRADIENT METHOD: AN EMPIRICAL STUDY FOR TRAINING DEEP NEURAL NETWORK,,Adams Wei Yu;Lei Huang;Qihang Lin;Ruslan Salakhutdinov;Jaime Carbonell,,Reject,,
+553,Multimodal Sentiment Analysis To Explore the Structure of Emotions,,Anthony Hu;Seth Flaxman,,Reject,,
+554,State Space LSTM Models with Particle MCMC Inference,,Xun Zheng;Manzil Zaheer;Amr Ahmed;Yuan Wang;Eric P. Xing;Alex Smola,,Reject,,
+555,Continuous-fidelity Bayesian Optimization with Knowledge Gradient,,Jian Wu;Peter I. Frazier,,Reject,,
+556,Learning to Write by Learning the Objective,,Ari Holtzman;Jan Buys;Maxwell Forbes;Antoine Bosselut;Yejin Choi,,Workshop,,
+557,Adversarial Learning for Semi-Supervised Semantic Segmentation,,Wei-Chih Hung;Yi-Hsuan Tsai;Yan-Ting Liou;Yen-Yu Lin;Ming-Hsuan Yang,,Reject,,
+558,Bayesian Time Series Forecasting with Change Point and Anomaly Detection,,Anderson Y. Zhang;Miao Lu;Deguang Kong;Jimmy Yang,,Reject,,
+559,Connectivity Learning in Multi-Branch Networks,,Karim Ahmed;Lorenzo Torresani,,Reject,,
+560,Data Augmentation by Pairing Samples for Images Classification,,Hiroshi Inoue,,Reject,,
+561,Decoding Decoders: Finding Optimal Representation Spaces for Unsupervised Similarity Tasks,,Vitalii Zhelezniak;Dan Busbridge;April Shen;Samuel L. Smith;Nils Y. Hammerla,,Workshop,,
+562,DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images,,Taihong Xiao;Jiapeng Hong;Jinwen Ma,,Workshop,,
+563,Embedding Multimodal Relational Data,,Pouya Pezeshkpour;Liyan Chen;Sameer Singh,,Withdraw,,
+564,Fast Node Embeddings: Learning Ego-Centric Representations,,Tiago Pimentel;Adriano Veloso;Nivio Ziviani,,Workshop,,
+565,Learning Awareness Models,,Brandon Amos;Laurent Dinh;Serkan Cabi;Thomas Rothörl;Sergio Gómez Colmenarejo;Alistair Muldal;Tom Erez;Yuval Tassa;Nando de Freitas;Misha Denil,,Poster,https://openreview.net/forum?id=r1HhRfWRZ,https://openreview.net/pdf?id=r1HhRfWRZ
+566,LEARNING SEMANTIC WORD RESPRESENTATIONS VIA TENSOR FACTORIZATION,,Eric Bailey;Charles Meyer;Shuchin Aeron,,Reject,,
+567,Neighbor-encoder,,Chin-Chia Michael Yeh;Yan Zhu;Evangelos E. Papalexakis;Abdullah Mueen;Eamonn Keogh,,Reject,,
+568,PACT: Parameterized Clipping Activation for Quantized Neural Networks,,Jungwook Choi;Zhuo Wang;Swagath Venkataramani;Pierce I-Jen Chuang;Vijayalakshmi Srinivasan;Kailash Gopalakrishnan,,Reject,,
+569,Simple and efficient architecture search for Convolutional Neural Networks,,Thomas Elsken;Jan Hendrik Metzen;Frank Hutter,,Workshop,,
+570,"To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression",,Michael H. Zhu;Suyog Gupta,,Workshop,,
+571,A Flexible Approach to Automated RNN Architecture Generation,,Martin Schrimpf;Stephen Merity;James Bradbury;Richard Socher,,Workshop,,
+572,Achieving Strong Regularization for Deep Neural Networks,,Dae Hoon Park;Chiu Man Ho;Yi Chang,,Reject,,
+573,Bayesian Embeddings for Long-Tailed Datasets,,Victor Fragoso;Deva Ramanan,,Withdraw,,
+574,Data augmentation instead of explicit regularization,,Alex Hernández-García;Peter König,,Reject,,
+575,DENSELY CONNECTED RECURRENT NEURAL NETWORK FOR SEQUENCE-TO-SEQUENCE LEARNING,,Fei Tian,,Reject,,
+576,Detecting Anomalies in Communication Packet Streams based on Generative Adversarial Networks,,Anonymous,,Withdraw,,
+577,DNN Representations as Codewords: Manipulating Statistical Properties via Penalty Regularization,,Daeyoung Choi;Changho Shin;Hyunghun Cho;Wonjong Rhee,,Reject,,
+578,Generating Differentially Private Datasets Using GANs,,Aleksei Triastcyn;Boi Faltings,,Reject,,
+579,Heterogeneous Bitwidth Binarization in Convolutional Neural Networks,,Josh Fromm;Matthai Philipose;Shwetak Patel,,Reject,,
+580,Incremental Learning through Deep Adaptation,,Amir Rosenfeld;John K. Tsotsos,,Reject,,
+581,Iterative Deep Compression : Compressing Deep Networks for Classification and Semantic Segmentation,,Sugandha Doda;Vitor Fortes Rey;Dr. Nadereh Hatami;Prof. Dr. Paul Lukowicz,,Reject,,
+582,Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs,,Jean Maillard;Stephen Clark;Dani Yogatama,,Reject,,
+583,Large Scale Multi-Domain Multi-Task Learning with MultiModel,,Lukasz Kaiser;Aidan N. Gomez;Noam Shazeer;Ashish Vaswani;Niki Parmar;Llion Jones;Jakob Uszkoreit,,Reject,,
+584,Large-scale Cloze Test Dataset Designed by Teachers,,Qizhe Xie;Guokun Lai;Zihang Dai;Eduard Hovy,,Reject,,
+585,Learning Covariate-Specific Embeddings with Tensor Decompositions,,Kevin Tian;Teng Zhang;James Zou,,Reject,,
+586,Learning Graph Convolution Filters from Data Manifold,,Guokun Lai;Hanxiao Liu;Yiming Yang,,Reject,,
+587,Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks,,Yau-Shian Wang;Hung-Yi Lee,,Reject,,
+588,Novelty Detection with GAN,,Mark Kliger;Shachar Fleishman,,Reject,,
+589,Prototype Matching Networks for Large-Scale Multi-label Genomic Sequence Classification,,Jack Lanchantin;Arshdeep Sekhon;Ritambhara Singh;Yanjun Qi,,Reject,,
+590,Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs,,Stephanie Hyland;Cristóbal Esteban;Gunnar Rätsch,,Reject,,
+591,Sample-Efficient Deep Reinforcement Learning via Episodic Backward Update,,Su Young Lee;Sungik Choi;Sae-Young Chung,,Reject,,
+592,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,,Tuomas Haarnoja;Aurick Zhou;Pieter Abbeel;Sergey Levine,,Workshop,,
+593,Tensor-Based Preposition Representation,,Hongyu Gong;Suma Bhat;Pramod Viswanath,,Withdraw,,
+594,The Information-Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Modeling,,Shengjia Zhao;Jiaming Song;Stefano Ermon,,Reject,,
+595,Topic-Based Question Generation,,Wenpeng Hu;Bing Liu;Rui Yan;Dongyan Zhao;Jinwen Ma,,Workshop,,
+596,Using Deep Reinforcement Learning to Generate Rationales for Molecules,,Benson Chen;Connor Coley;Regina Barzilay;Tommi Jaakkola,,Reject,,
+597,Continuous-Time Flows for Efficient Inference and Density Estimation,,Changyou Chen;Chunyuan Li;Liqun Chen;Wenlin Wang;Yunchen Pu;Lawrence Carin,,Reject,,
+598,Ego-CNN: An Ego Network-based Representation of Graphs Detecting Critical Structures,,Ruo-Chun Tzeng;Shan-Hung Wu,,Reject,,
+599,End-to-End Abnormality Detection in Medical Imaging,,Dufan Wu;Kyungsang Kim;Bin Dong;Quanzheng Li,,Reject,,
+600,Ground-Truth Adversarial Examples,,Nicholas Carlini;Guy Katz;Clark Barrett;David L. Dill,,Reject,,
+601,INTERPRETATION OF NEURAL NETWORK IS FRAGILE,,Amirata Ghorbani;Abubakar Abid;James Zou,,Reject,,
+602,Latent Topic Conversational Models,,Tsung-Hsien Wen;Minh-Thang Luong,,Reject,,
+603,Long-term Forecasting using Tensor-Train RNNs,,Rose Yu;Stephan Zheng;Anima Anandkumar;Yisong Yue,,Reject,,
+604,LSH Softmax: Sub-Linear Learning and Inference of the Softmax Layer in Deep Architectures,,Daniel Levy;Danlu Chan;Stefano Ermon,,Reject,,
+605,Neural Clustering By Predicting And Copying Noise,,Sam Coope;Andrej Zukov-Gregoric;Yoram Bachrach,,Reject,,
+606,Neural Networks with Block Diagonal Inner Product Layers,,Amy Nesky;Quentin Stout,,Reject,,
+607,On the regularization of Wasserstein GANs,,Henning Petzka;Asja Fischer;Denis Lukovnikov,,Poster,https://openreview.net/forum?id=B1hYRMbCW,https://openreview.net/pdf?id=B1hYRMbCW
+608,Predict Responsibly: Increasing Fairness by Learning to Defer,,David Madras;Toniann Pitassi;Richard Zemel,,Workshop,,
+609,Realtime query completion via deep language models,,Po-Wei Wang;J. Zico Kolter;Vijai Mohan;Inderjit S. Dhillon,,Reject,,
+610,Rotational Unit of Memory,,Rumen Dangovski;Li Jing;Marin Soljacic,,Workshop,,
+611,Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings,,Kangwook Lee;Hoon Kim;Changho Suh,,Poster,https://openreview.net/forum?id=SkHDoG-Cb,https://openreview.net/pdf?id=SkHDoG-Cb
+612,Topology Adaptive Graph Convolutional Networks,,Jian Du;Shanghang Zhang;Guanhang Wu;José M. F. Moura;Soummya Kar,,Reject,,
+613,Towards Safe Deep Learning: Unsupervised Defense Against Generic Adversarial Attacks,,Bita Darvish Rouhani;Mohammad Samragh;Tara Javidi;Farinaz Koushanfar,,Reject,,
+614,Unbiased scalable softmax optimization,,Francois Fagan;Garud Iyengar,,Reject,,
+615,Variance Regularizing Adversarial Learning,,Karan Grewal;R Devon Hjelm;Yoshua Bengio,,Reject,,
+616,VOCABULARY-INFORMED VISUAL FEATURE AUGMENTATION FOR ONE-SHOT LEARNING,,jianqi ma;hangyu lin;yinda zhang;yanwei fu;xiangyang xue,,Reject,,
+617,A Bayesian Nonparametric Topic Model with Variational Auto-Encoders,,Xuefei Ning;Yin Zheng;Zhuxi Jiang;Yu Wang;Huazhong Yang;Junzhou Huang,,Reject,,
+618,Adversarial Policy Gradient for Alternating Markov Games,,Chao Gao;Martin Mueller;Ryan Hayward,,Workshop,,
+619,Discrete Autoencoders for Sequence Models,,Lukasz Kaiser;Samy Bengio,,Reject,,
+620,Disentangled activations in deep networks,,Mikael Kågebäck;Olof Mogren,,Reject,,
+621,From Information Bottleneck To Activation Norm Penalty,,Allen Nie;Mihir Mongia;James Zou,,Reject,,
+622,Hyperedge2vec: Distributed Representations for Hyperedges,,Ankit Sharma;Shafiq Joty;Himanshu Kharkwal;Jaideep Srivastava,,Reject,,
+623,Improving generalization by regularizing in $L^2$ function space,,Ari S Benjamin;Konrad Kording,,Reject,,
+624,Towards a Testable Notion of Generalization for Generative Adversarial Networks,,Robert Cornish;Hongseok Yang;Frank Wood,,Reject,,
+625,"Universality, Robustness, and Detectability of Adversarial Perturbations under Adversarial Training",,Jan Hendrik Metzen,,Reject,,
+626,SHADE: SHAnnon DEcay Information-Based Regularization for Deep Learning,,Michael Blot;Thomas Robert;Nicolas Thome;Matthieu Cord,,Reject,,
+627,Classifier-to-Generator Attack: Estimation of Training Data Distribution from Classifier,,Kosuke Kusano;Jun Sakuma,,Reject,,
+628,Continuous Convolutional Neural Networks for Image Classification,,Vitor Guizilini;Fabio Ramos,,Reject,,
+629,Discriminative k-shot learning using probabilistic models,,Matthias Bauer;Mateo Rojas-Carulla;Jakub Bartłomiej Świątkowski;Bernhard Schölkopf;Richard E. Turner,,Reject,,
+630,Network Signatures from Image Representation of Adjacency Matrices: Deep/Transfer Learning for Subgraph Classification,,Kshiteesh Hegde;Malik Magdon-Ismail;Ram Ramanathan;Bishal Thapa,,Reject,,
+631,Hybed: Hyperbolic Neural Graph Embedding,,Benjamin Paul Chamberlain;James R Clough;Marc Peter Deisenroth,,Reject,,
+632,Generation and Consolidation of Recollections for Efficient Deep Lifelong Learning,,Matt Riemer;Michele Franceschini;and Tim Klinger,,Reject,,
+633,Syntax-Directed Variational Autoencoder for Structured Data,,Hanjun Dai;Yingtao Tian;Bo Dai;Steven Skiena;Le Song,,Poster,https://openreview.net/forum?id=SyqShMZRb,https://openreview.net/pdf?id=SyqShMZRb
+634,Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection,,Haw-Shiuan Chang;ZiYun Wang;Luke Vilnis;Andrew McCallum,,Withdraw,,
+635,HybridNet: A Hybrid Neural Architecture to Speed-up Autoregressive Models,,Yanqi Zhou;Wei Ping;Sercan Arik;Kainan Peng;Greg Diamos,,Reject,,
+636,Adversarial reading networks for machine comprehension,,Quentin Grail;Julien Perez,,Reject,,
+637,Attribute-aware Collaborative Filtering: Survey and Classification,,Wen-Hao Chen;Chin-Chi Hsu;Mi-Yen Yeh;Shou-De Lin,,Withdraw,,
+638,Deep Learning is Robust to Massive Label Noise,,David Rolnick;Andreas Veit;Serge Belongie;Nir Shavit,,Reject,,
+639,Inducing Grammars with and for Neural Machine Translation,,Ke Tran;Yonatan Bisk,,Reject,,
+640,Kernel Graph Convolutional Neural Nets,,Giannis Nikolentzos;Polykarpos Meladianos;Antoine J-P Tixier;Konstantinos Skianis;Michalis Vazirgiannis,,Reject,,
+641,Learning Non-Metric Visual Similarity for Image Retrieval,,Noa Garcia;George Vogiatzis,,Reject,,
+642,A Classification-Based Perspective on GAN Distributions,,Shibani Santurkar;Ludwig Schmidt;Aleksander Madry,,Reject,,
+643,Anomaly Detection with Generative Adversarial Networks,,Lucas Deecke;Robert Vandermeulen;Lukas Ruff;Stephan Mandt;Marius Kloft,,Reject,,
+644,Depth separation and weight-width trade-offs for sigmoidal neural networks,,Amit Deshpande;Navin Goyal;Sushrut Karmalkar,,Reject,,
+645,Forced Apart: Discovering Disentangled Representations Without Exhaustive Labels,,Alexey Romanov;Anna Rumshisky,,Reject,,
+646,Generative Entity Networks: Disentangling Entitites and Attributes in Visual Scenes using Partial Natural Language Descriptions,,Charlie Nash;Sebastian Nowozin;Nate Kushman,,Reject,,
+647,Interactive Boosting of Neural Networks for Small-sample Image Classification,,Xiaoxu Li;Dongliang Chang;Zheng-Hua Tan;Zhanyu Ma;Jun Guo;Jie Cao,,Withdraw,,
+648,IVE-GAN: Invariant Encoding Generative Adversarial Networks,,Robin Winter;Djork-Arnè Clevert,,Reject,,
+649,Learning Independent Features with Adversarial Nets for Non-linear ICA,,Philemon Brakel;Yoshua Bengio,,Reject,,
+650,Normalized Direction-preserving Adam,,Zijun Zhang;Lin Ma;Zongpeng Li;Chuan Wu,,Reject,,
+651,NOVEL AND EFFECTIVE PARALLEL MIX-GENERATOR GENERATIVE ADVERSARIAL NETWORKS,,Xia Xiao;Sanguthevar Rajasekaran,,Reject,,
+652,Predicting Auction Price of Vehicle License Plate with Deep Recurrent Neural Network,,Vinci Chow,,Reject,,
+653,Reinforcement and Imitation Learning for Diverse Visuomotor Skills,,Yuke Zhu;Ziyu Wang;Josh Merel;Andrei Rusu;Tom Erez;Serkan Cabi;Saran Tunyasuvunakool;János Kramár;Raia Hadsell;Nando de Freitas;Nicolas Heess,,Reject,,
+654,Seq2SQL: Generating Structured Queries From Natural Language Using Reinforcement Learning,,Victor Zhong;Caiming Xiong;Richard Socher,,Reject,,
+655,The Set Autoencoder: Unsupervised Representation Learning for Sets,,Malte Probst,,Reject,,
+656,Unseen Class Discovery in Open-world Classification,,Lei Shu;Hu Xu;Bing Liu,,Reject,,
+657,UNSUPERVISED METRIC LEARNING VIA NONLINEAR FEATURE SPACE TRANSFORMATIONS,,Pin Zhang;Bibo Shi;JundongLiu,,Reject,,
+658,A Boo(n) for Evaluating Architecture Performance,,Ondrej Bajgar;Rudolf Kadlec;and Jan Kleindienst,,Reject,,
+659,A comparison of second-order methods for deep convolutional neural networks,,Patrick H. Chen;Cho-jui Hsieh,,Reject,,
+660,Adversarial Examples for Natural Language Classification Problems,,Volodymyr Kuleshov;Shantanu Thakoor;Tingfung Lau;Stefano Ermon,,Reject,,
+661,Autoregressive Convolutional Neural Networks for Asynchronous Time Series,,Mikolaj Binkowski;Gautier Marti;Philippe Donnat,,Reject,,
+662,Cross-View Training for Semi-Supervised Learning,,Kevin Clark;Thang Luong;Quoc V. Le,,Workshop,,
+663,Deep Asymmetric Multi-task Feature Learning,,Hae Beom Lee;Eunho Yang;Sung Ju Hwang,,Reject,,
+664,Deep Hyperspherical Defense against Adversarial Perturbations,,Weiyang Liu;Zhen Liu;Zhehui Chen;Bo Dai;Tuo Zhao;Le Song,,Withdraw,,
+665,Enhance Word Representation for Out-of-Vocabulary on Ubuntu Dialogue Corpus,,JIANXIONG DONG;Jim Huang,,Reject,,
+666,Explaining the Mistakes of Neural Networks with Latent Sympathetic Examples,,Riaan Zoetmulder;Efstratios Gavves;Peter O'Connor,,Reject,,
+667,Few-Shot Learning with Simplex,,Bowen Zhang;Xifan Zhang;Fan Cheng;Deli Zhao,,Reject,,
+668,Large Batch Training of Convolutional Networks with Layer-wise Adaptive Rate Scaling,,Boris Ginsburg;Igor Gitman;Yang You,,Reject,,
+669,Linearly Constrained Weights: Resolving the Vanishing Gradient Problem by Reducing Angle Bias,,Takuro Kutsuna,,Reject,,
+670,Model-based imitation learning from state trajectories,,Subhajit Chaudhury;Daiki Kimura;Tadanobu Inoue;Ryuki Tachibana,,Reject,,
+671,Multi-task Learning on MNIST Image Datasets,,Po-Chen Hsieh;Chia-Ping Chen,,Reject,,
+672,Parametric Information Bottleneck to Optimize Stochastic Neural Networks,,Thanh T. Nguyen;Jaesik Choi,,Reject,,
+673,Piecewise Linear Neural Networks verification: A comparative study,,Rudy Bunel;Ilker Turkaslan;Philip H.S. Torr;Pushmeet Kohli;M. Pawan Kumar,,Reject,,
+674,Pointing Out SQL Queries From Text,,Chenglong Wang;Marc Brockschmidt;Rishabh Singh,,Reject,,
+675,Revisiting The Master-Slave Architecture In Multi-Agent Deep Reinforcement Learning,,Xiangyu Kong;Fangchen Liu;Bo Xin;Yizhou Wang,,Reject,,
+676,Robust Task Clustering for Deep and Diverse Multi-Task and Few-Shot Learning,,Mo Yu;Xiaoxiao Guo;Jinfeng Yi;Shiyu Chang;Saloni Potdar;Gerald Tesauro;Haoyu Wang;Bowen Zhou,,Withdraw,,
+677,Sensor Transformation Attention Networks,,Stefan Braun;Daniel Neil;Enea Ceolini;Jithendar Anumula;Shih-Chii Liu,,Reject,,
+678,Shifting Mean Activation Towards Zero with Bipolar Activation Functions,,Lars Hiller Eidnes;Arild Nøkland,,Workshop,,
+679,Softmax Supervision with Isotropic Normalization,,Yue Zhao;Deli Zhao;Shaohua Wan;Bo Zhang,,Reject,,
+680,Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative Diseases,,Mengying Sun;Inci M. Baytas;Zhangyang Wang;Jiayu Zhou,,Reject,,
+681,The Context-Aware Learner,,Conor Durkan;Amos Storkey;Harrison Edwards,,Reject,,
+682,Three factors influencing minima in SGD,,Stanisław Jastrzębski;Zac Kenton;Devansh Arpit;Nicolas Ballas;Asja Fischer;Amos Storkey;Yoshua Bengio,,Reject,,
+683,Towards Building Affect sensitive Word Distributions,,Kushal Chawla;Sopan Khosla;Niyati Chhaya;Kokil Jaidka,,Reject,,
+684,Acquiring Target Stacking Skills by Goal-Parameterized Deep Reinforcement Learning,,Wenbin Li;Jeannette Bohg;Mario Fritz,,Reject,,
+685,Combining Model-based and Model-free RL via Multi-step Control Variates,,Tong Che;Yuchen Lu;George Tucker;Surya Bhupatiraju;Shane Gu;Sergey Levine;Yoshua Bengio,,Reject,,
+686,Compact Neural Networks based on the Multiscale Entanglement Renormalization Ansatz,,Andrew Hallam;Edward Grant;Vid Stojevic;Simone Severini;Andrew G. Green,,Reject,,
+687,Deep Net Triage: Assessing The Criticality of Network Layers by Structural Compression,,Theodore S. Nowak;Jason J. Corso,,Withdraw,,
+688,"Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients",,Lukas Balles;Philipp Hennig,,Reject,,
+689,Enhancing the Transferability of Adversarial Examples with Noise Reduced Gradient,,Lei Wu;Zhanxing Zhu;Cheng Tai;Weinan E,,Reject,,
+690,Feature Map Variational Auto-Encoders,,Lars Maaløe;Ole Winther,,Reject,,
+691,Gating out sensory noise in a spike-based Long Short-Term Memory network,,Davide Zambrano;Isabella Pozzi;Roeland Nusselder;Sander Bohte,,Reject,,
+692,GENERATIVE LOW-SHOT NETWORK EXPANSION,,Adi Hayat;Mark Kliger;Shachar Fleishman;Daniel Cohen-Or,,Reject,,
+693,Graph Classification with 2D Convolutional Neural Networks,,Antoine J.-P. Tixier;Giannis Nikolentzos;Polykarpos Meladianos;Michalis Vazirgiannis,,Reject,,
+694,Image Transformer,,Ashish Vaswani;Niki Parmar;Jakob Uszkoreit;Noam Shazeer;Lukasz Kaiser,,Reject,,
+695,Joint autoencoders: a flexible meta-learning framework,,Baruch Epstein;Ron Meir;Tomer Michaeli,,Reject,,
+696,Learning Deep ResNet Blocks Sequentially using Boosting Theory,,Furong Huang;Jordan T. Ash;John Langford;Robert E. Schapire,,Reject,,
+697,Learning to select examples for program synthesis,,Yewen Pu;Zachery Miranda;Armando Solar-Lezama;Leslie Pack Kaelbling,,Reject,,
+698,On Optimality Conditions for Auto-Encoder Signal Recovery,,Devansh Arpit;Yingbo Zhou;Hung Q. Ngo;Nils Napp;Venu Govindaraju,,Reject,,
+699,PARAMETRIZED DEEP Q-NETWORKS LEARNING: PLAYING ONLINE BATTLE ARENA WITH DISCRETE-CONTINUOUS HYBRID ACTION SPACE,,Jiechao Xiong;Qing Wang;Zhuoran Yang;Peng Sun;Yang Zheng;Lei Han;Haobo Fu;Xiangru Lian;Carson Eisenach;Haichuan Yang;Emmanuel Ekwedike;Bei Peng;Haoyue Gao;Tong Zhang;Ji Liu;Han Liu,,Reject,,
+700,Predicting Multiple Actions for Stochastic Continuous Control,,Sanjeev Kumar;Christian Rupprecht;Federico Tombari;Gregory D. Hager,,Reject,,
+701,PrivyNet: A Flexible Framework for Privacy-Preserving Deep Neural Network Training,,Meng Li;Liangzhen Lai;Naveen Suda;Vikas Chandra;David Z. Pan,,Reject,,
+702,Relevance of Unsupervised Metrics in Task-Oriented Dialogue for Evaluating Natural Language Generation,,Shikhar Sharma;Layla El Asri;Hannes Schulz;Jeremie Zumer,,Reject,,
+703,Stochastic Training of Graph Convolutional Networks,,Jianfei Chen;Jun Zhu,,Reject,,
+704,Tensor Contraction & Regression Networks,,Jean Kossaifi;Zack Chase Lipton;Aran Khanna;Tommaso Furlanello;Anima Anandkumar,,Reject,,
+705,Towards Effective GANs for Data Distributions with Diverse Modes,,Sanchit Agrawal;Gurneet Singh;Mitesh Khapra,,Workshop,,
+706,Trace norm regularization and faster inference for embedded speech recognition RNNs,,Markus Kliegl;Siddharth Goyal;Kexin Zhao;Kavya Srinet;Mohammad Shoeybi,,Reject,,
+707,Training with Growing Sets: A Simple Alternative to Curriculum Learning and Self Paced Learning,,Melike Nur Mermer;Mehmet Fatih Amasyali,,Reject,,
+708,Tree-to-tree Neural Networks for Program Translation,,Xinyun Chen;Chang Liu;Dawn Song,,Workshop,,
+709,ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions,,Soham Parikh;Ananya Sai;Preksha Nema;Mitesh M Khapra,,Reject,,
+710,Empirical Analysis of the Hessian of Over-Parametrized Neural Networks,,Levent Sagun;Utku Evci;V. Ugur Guney;Yann Dauphin;Leon Bottou,,Workshop,,
+711,GeoSeq2Seq: Information Geometric Sequence-to-Sequence Networks,,Alessandro Bay;Biswa Sengupta,,Workshop,,
+712,GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks,,Zhao Chen;Vijay Badrinarayanan;Chen-Yu Lee;Andrew Rabinovich,,Reject,,
+713,HyperNetworks with statistical filtering for defending adversarial examples,,Anonymous,,Withdraw,,
+714,Learning to Infer Graphics Programs from Hand-Drawn Images,,Kevin Ellis;Daniel Ritchie;Armando Solar-Lezama;Joshua B. Tenenbaum,,Reject,,
+715,Learning what to learn in a neural program,,Richard Shin;Dawn Song,,Reject,,
+716,On Batch Adaptive Training for Deep Learning: Lower Loss and Larger Step Size,,Runyao Chen;Kun Wu;Ping Luo,,Reject,,
+717,Parametric Adversarial Divergences are Good Task Losses for Generative Modeling,,Gabriel Huang;Hugo Berard;Ahmed Touati;Gauthier Gidel;Pascal Vincent;Simon Lacoste-Julien,,Workshop,,
+718,Reinforcement Learning via Replica Stacking of Quantum Measurements for the Training of Quantum Boltzmann Machines,,Anna Levit; Daniel Crawford;Navid Ghadermarzy;Jaspreet S. Oberoi;Ehsan Zahedinejad;Pooya Ronagh,,Reject,,
+719,Visualizing the Loss Landscape of Neural Nets,,Hao Li;Zheng Xu;Gavin Taylor;Tom Goldstein,,Workshop,,
+720,A cluster-to-cluster framework for neural machine translation,,Anonymous,,Withdraw,,
+721,Deep Epitome for Unravelling Generalized Hamming Network: A Fuzzy Logic Interpretation of Deep Learning,,Anonymous,,Withdraw,,
+722,Improving Conditional Sequence Generative Adversarial Networks by Stepwise Evaluation,,Yi-Lin Tuan;Hung-yi Lee,,Reject,,
+723,Learning Parsimonious Deep Feed-forward Networks,,Zhourong Chen;Xiaopeng Li;Nevin L. Zhang,,Reject,,
+724,Prediction Under Uncertainty with Error Encoding Networks,,Mikael Henaff;Junbo Zhao;Yann Lecun,,Reject,,
+725,Unsupervised Deep Structure Learning by Recursive Dependency Analysis,,Raanan Y. Yehezkel Rohekar;Guy Koren;Shami Nisimov;Gal Novik,,Reject,,
+726,YellowFin and the Art of Momentum Tuning,,Jian Zhang;Ioannis Mitliagkas;Christopher Re,,Reject,,
+727,Deep Function Machines: Generalized Neural Networks for Topological Layer Expression,,William H. Guss,,Reject,,
+728,Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger,,Gabriel Synnaeve;Zeming Lin;Jonas Gehring;Vasil Khalidov;Nicolas Carion;Nicolas Usunier,,Reject,,
+729,Learning non-linear transform with discriminative and minimum information loss priors,,Dimche Kostadinov;Slava Voloshynovskiy,,Reject,,
+730,Data-driven Feature Sampling for Deep Hyperspectral Classification and Segmentation,,William M. Severa;Jerilyn A. Timlin;Suraj Kholwadwala;Conrad D. James;James B. Aimone,,Reject,,
+731,3C-GAN: AN CONDITION-CONTEXT-COMPOSITE GENERATIVE ADVERSARIAL NETWORKS FOR GENERATING IMAGES SEPARATELY,,Yeu-Chern Harn;Vladimir Jojic,,Reject,,
+732,Achieving morphological agreement with Concorde,,Daniil Polykovskiy;Dmitry Soloviev,,Reject,,
+733,Autoregressive Generative Adversarial Networks,,Yasin Yazici;Kim-Hui Yap;Stefan Winkler,,Workshop,,
+734,CrescendoNet: A Simple Deep Convolutional Neural Network with Ensemble Behavior,,Xiang Zhang;Nishant Vishwamitra;Hongxin Hu;Feng Luo,,Reject,,
+735,Gated ConvNets for Letter-Based ASR,,Vitaliy Liptchinsky;Gabriel Synnaeve;Ronan Collobert,,Reject,,
+736,Regularization for Deep Learning: A Taxonomy,,Jan Kukačka;Vladimir Golkov;Daniel Cremers,,Reject,,
+737,Sequence Transfer Learning for Neural Decoding,,Venkatesh Elango*;Aashish N Patel*;Kai J Miller;Vikash Gilja,,Reject,,
+738,A Neural-Symbolic Approach to Natural Language Tasks,,Qiuyuan Huang;Paul Smolensky;Xiaodong He;Li Deng;Dapeng Wu,,Reject,,
+739,Convergence rate of sign stochastic gradient descent for non-convex functions,,Jeremy Bernstein;Kamyar Azizzadenesheli;Yu-Xiang Wang;Anima Anandkumar,,Reject,,
+740,DeepArchitect: Automatically Designing and Training Deep Architectures,,Renato Negrinho;Geoff Gordon,,Reject,,
+741,Do Deep Reinforcement Learning Algorithms really Learn to Navigate?,,Shurjo Banerjee;Vikas Dhiman;Brent Griffin;Jason J. Corso,,Reject,,
+742,Efficiently applying attention to sequential data with the Recurrent Discounted Attention unit,,Brendan Maginnis;Pierre Richemond,,Reject,,
+743,Image Segmentation by Iterative Inference from Conditional Score Estimation,,Adriana Romero;Michal Drozdzal;Akram Erraqabi;Simon Jégou;Yoshua Bengio,,Reject,,
+744,Learning to Generate Filters for Convolutional Neural Networks,,Wei Shen;Rujie Liu,,Reject,,
+745,Melody Generation for Pop Music via Word Representation of Musical Properties,,Andrew Shin;Leopold Crestel;Hiroharu Kato;Kuniaki Saito;Katsunori Ohnishi;Masataka Yamaguchi;Masahiro Nakawaki;Yoshitaka Ushiku;Tatsuya Harada,,Withdraw,,
+746,Overcoming the vanishing gradient problem in plain recurrent networks,,Yuhuang Hu;Adrian Huber;Shih-Chii Liu,,Reject,,
+747,Spectral Graph Wavelets for Structural Role Similarity in Networks,,Claire Donnat;Marinka Zitnik;David Hallac;Jure Leskovec,,Reject,,
+748,The Mutual Autoencoder: Controlling Information in Latent Code Representations,,Mary Phuong;Max Welling;Nate Kushman;Ryota Tomioka;Sebastian Nowozin,,Reject,,
+749,Time Limits in Reinforcement Learning,,Fabio Pardo;Arash Tavakoli;Vitaly Levdik;Petar Kormushev,,Reject,,
+750,Training Deep AutoEncoders for Recommender Systems,,Oleksii Kuchaiev;Boris Ginsburg,,Reject,,
+751,Understanding GANs: the LQG Setting,,Soheil Feizi;Changho Suh;Fei Xia;David Tse,,Reject,,
+752,Unsupervised Learning of Entailment-Vector Word Embeddings,,James Henderson,,Reject,,
+753,Word2net: Deep Representations of Language,,Maja Rudolph;Francisco Ruiz;David Blei,,Reject,,
+754,AirNet: a machine learning dataset for air quality forecasting,,Songgang Zhao;Xingyuan Yuan;Da Xiao;Jianyuan Zhang;Zhouyuan Li,,Reject,,
+755,Counterfactual Image Networks,,Deniz Oktay;Carl Vondrick;Antonio Torralba,,Reject,,
+756,Deep Boosting of Diverse Experts,,Wei Zhang;Qiuyu Chen;Jun Yu;Jianping Fan,,Reject,,
+757,Dynamically Learning the Learning Rates: Online Hyperparameter Optimization,,Tuhin Sarkar;Anima Anandkumar;Leo Dirac,,Withdraw,,
+758,Generalized Graph Embedding Models,,Qiao Liu;Xiaohui Yang;Rui Wan;Shouzhong Tu;Zufeng Wu,,Reject,,
+759,Improving image generative models with human interactions,,Andrew Kyle Lampinen;David So;Douglas Eck;Fred Bertsch,,Reject,,
+760,Latent forward model for Real-time Strategy game planning with incomplete information,,Yuandong Tian;Qucheng Gong,,Reject,,
+761,Learning Deep Generative Models With Discrete Latent Variables,,Hengyuan Hu;Ruslan Salakhutdinov,,Reject,,
+762,Learning to navigate by distilling visual information and natural language instructions,,Abhishek Sinha;Akilesh B;Mausoom Sarkar;Balaji Krishnamurthy,,Reject,,
+763,"LSD-Net: Look, Step and Detect for Joint Navigation and Multi-View Recognition with Deep Reinforcement Learning",,N dinesh reddy,,Reject,,
+764,MINE: Mutual Information Neural Estimation,,Mohamed Ishmael Belghazi;Sai Rajeswar;Aristide Baratin;Devon Hjelm;Aaron Courville,,Reject,,
+765,Time-Dependent Representation for Neural Event Sequence Prediction,,Yang Li;Nan Du;Samy Bengio,,Workshop,,
+766,Training Neural Machines with Partial Traces,,Matthew Mirman;Dimitar Dimitrov;Pavle Djordjevich;Timon Gehr;Martin Vechev,,Reject,,
+767,Transfer Learning on Manifolds via Learned Transport Operators,,Marissa Connor;Christopher Rozell,,Reject,,
+768,TRL: Discriminative Hints for Scalable Reverse Curriculum Learning,,Chen Wang;Xiangyu Chen;Zelin Ye;Jialu Wang;Ziruo Cai;Shixiang Gu;Cewu Lu,,Reject,,
+769,Understanding Local Minima in Neural Networks by Loss Surface Decomposition,,Hanock Kwak;Byoung-Tak Zhang,,Reject,,
+770,CNNs as Inverse Problem Solvers and Double Network Superresolution,,Cem TARHAN;Gözde BOZDAĞI AKAR,,Reject,,
+771,Deep Active Learning over the Long Tail,,Anonymous,,Withdraw,,
+772,Distributed Fine-tuning of Language Models on Private Data,,Vadim Popov;Mikhail Kudinov;Irina Piontkovskaya;Petr Vytovtov;Alex Nevidomsky,,Poster,https://openreview.net/forum?id=HkgNdt26Z,https://openreview.net/pdf?id=HkgNdt26Z
+773,Influence-Directed Explanations for Deep Convolutional Networks,,Anupam Datta;Matt Fredrikson;Klas Leino;Linyi Li;Shayak Sen,,Reject,,
+774,Information Theoretic Co-Training,,David McAllester,,Withdraw,,
+775,LEAP: Learning Embeddings for Adaptive Pace,,Vithursan Thangarasa;Graham W. Taylor,,Reject,,
+776,Learning Generative Models with Locally Disentangled Latent Factors,,Brady Neal;Alex Lamb;Sherjil Ozair;Devon Hjelm;Aaron Courville;Yoshua Bengio;Ioannis Mitliagkas,,Reject,,
+777,LEARNING TO ORGANIZE KNOWLEDGE WITH N-GRAM MACHINES,,Fan Yang;Jiazhong Nie;William W. Cohen;Ni Lao,,Workshop,,
+778,Learning to Treat Sepsis with Multi-Output Gaussian Process Deep Recurrent Q-Networks,,Joseph Futoma;Anthony Lin;Mark Sendak;Armando Bedoya;Meredith Clement;Cara O'Brien;Katherine Heller,,Reject,,
+779,"Model Specialization for Inference Via End-to-End Distillation, Pruning, and Cascades",,Daniel Kang;Karey Shi;Thao Ngyuen;Stephanie Mallard;Peter Bailis;Matei Zaharia,,Reject,,
+780,Recurrent Relational Networks for complex relational reasoning,,Rasmus Berg Palm;Ulrich Paquet;Ole Winther,,Reject,,
+781,Statestream: A toolbox to explore layerwise-parallel deep neural networks,,Volker Fischer,,Reject,,
+782,The (Un)reliability of saliency methods,,Pieter-Jan Kindermans;Sara Hooker;Julius Adebayo;Kristof T. Schütt;Maximilian Alber;Sven Dähne;Dumitru Erhan;Been Kim,,Reject,,
+783,The Principle of Logit Separation,,Gil Keren;Sivan Sabato;Björn Schuller,,Reject,,
+784,A Goal-oriented Neural Conversation Model by Self-Play,,Wei Wei;Quoc V. Le;Andrew M. Dai;Li-Jia Li,,Reject,,
+785,BinaryFlex: On-the-Fly Kernel Generation in Binary Convolutional Networks,,Vincent W.-S. Tseng;Sourav Bhattachary;Javier Fernández Marqués;Milad Alizadeh;Catherine Tong;Nicholas Donald Lane,,Reject,,
+786,Diffusing Policies : Towards Wasserstein Policy Gradient Flows,,Pierre H. Richemond;Brendan Maginnis,,Reject,,
+787,Extending the Framework of Equilibrium Propagation to General Dynamics,,Benjamin Scellier;Anirudh Goyal;Jonathan Binas;Thomas Mesnard;Yoshua Bengio,,Workshop,,
+788,A dynamic game approach to training robust deep policies,,Olalekan Ogunmolu,,Reject,,
+789,A Neural Method for Goal-Oriented Dialog Systems to interact with Named Entities,,Janarthanan Rajendran;Jatin Ganhotra;Xiaoxiao Guo;Mo Yu;Satinder Singh,,Reject,,
+790,A Tensor Analysis on Dense Connectivity via Convolutional Arithmetic Circuits,,Emilio Rafael Balda;Arash Behboodi;Rudolf Mathar,,Reject,,
+791,Characterizing Sparse Connectivity Patterns in Neural Networks,,Sourya Dey;Kuan-Wen Huang;Peter A. Beerel;Keith M. Chugg,,Reject,,
+792,Discovery of Predictive Representations With a Network of General Value Functions,,Matthew Schlegel;Andrew Patterson;Adam White;Martha White,,Reject,,
+793,Online Hyper-Parameter Optimization,,Damien Vincent;Sylvain Gelly;Nicolas Le Roux;Olivier Bousquet,,Reject,,
+794,ShakeDrop regularization,,Yoshihiro Yamada;Masakazu Iwamura;Koichi Kise,,Reject,,
+795,UPS: optimizing Undirected Positive Sparse graph for neural graph filtering,,Mikhail Yurochkin;Dung Thai;Hung Hai Bui;XuanLong Nguyen,,Reject,,
+796,Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures,,Ding Liu;Shi-Ju Ran;Peter Wittek;Cheng Peng;Raul Blázquez García;Gang Su;Maciej Lewenstein,,Reject,,
+797,TESLA: Task-wise Early Stopping and Loss Aggregation for Dynamic Neural Network Inference,,Chun-Min Chang;Chia-Ching Lin;Hung-Yi Ou Yang;Chin-Laung Lei;Kuan-Ta Chen,,Reject,,
+798,Representing dynamically: An active process for describing sequential data,,Juan Sebastian Olier;Emilia Barakova;Matthias Rauterberg;Carlo Regazzoni,,Reject,,
+799,Open Loop Hyperparameter Optimization and Determinantal Point Processes,,Jesse Dodge;Kevin Jamieson;Noah A. Smith,,Reject,,
+800,Self-Supervised Learning of Object Motion Through Adversarial Video Prediction,,Alex X. Lee;Frederik Ebert;Richard Zhang;Chelsea Finn;Pieter Abbeel;Sergey Levine,,Reject,,
+801,Deep Learning Inferences with Hybrid Homomorphic Encryption,,Anthony Meehan;Ryan K L Ko;Geoff Holmes,,Reject,,
+802,Enhancing Batch Normalized Convolutional Networks using Displaced Rectifier Linear Units: A Systematic Comparative Study,,David Macêdo;Cleber Zanchettin;Adriano L. I. Oliveira;Teresa Ludermir,,Reject,,
+803,Generative Adversarial Networks using Adaptive Convolution,,Nhat M. Nguyen;Nilanjan Ray,,Reject,,
+804,Learning Representations for Faster Similarity Search,,Ludwig Schmidt;Kunal Talwar,,Reject,,
+805,Now I Remember! Episodic Memory For Reinforcement Learning,,Ricky Loynd;Matthew Hausknecht;Lihong Li;Li Deng,,Reject,,
+806,Representing Entropy : A short proof of the equivalence between soft Q-learning and policy gradients,,Pierre H. Richemond;Brendan Maginnis,,Reject,,
+807,What is image captioning made of?,,Pranava Madhyastha;Josiah Wang;Lucia Specia,,Reject,,
+808,A Simple Fully Connected Network for Composing Word Embeddings from Characters,,Michael Traynor;Thomas Trappenberg,,Reject,,
+809,Accelerating Convolutional Neural Networks using Iterative Two-Pass Decomposition,,Wei-Shiang Lin;Hao-Ning Wu;Chih-Tsun Huang,,Withdraw,,
+810,Cluster-based Warm-Start Nets,,Anonymous,,Withdraw,,
+811,Cross-Corpus Training with TreeLSTM for the Extraction of Biomedical Relationships from Text,,Legrand Joël;Yannick Toussaint;Chedy Raïssi;Adrien Coulet,,Workshop,,
+812,Deep Temporal Clustering: Fully unsupervised learning of time-domain features,,Naveen Sai Madiraju;Seid M. Sadat;Dimitry Fisher;Homa Karimabadi,,Reject,,
+813,Directing Generative Networks with Weighted Maximum Mean Discrepancy,,Maurice Diesendruck;Guy W. Cole;Sinead Williamson,,Reject,,
+814,GATED FAST WEIGHTS FOR ASSOCIATIVE RETRIEVAL,,Imanol Schlag;Jürgen Schmidhuber,,Reject,,
+815,Interpretable Classification via Supervised Variational Autoencoders and Differentiable Decision Trees,,Eleanor Quint;Garrett Wirka;Jacob Williams;Stephen Scott;N.V. Vinodchandran,,Reject,,
+816,Learning Less-Overlapping Representations,,Hongbao Zhang;Pengtao Xie;Eric Xing,,Reject,,
+817,"Learning to Select: Problem, Solution, and Applications",,Heechang Ryu;Donghyun Kim;Hayong Shin,,Reject,,
+818,Make SVM great again with Siamese kernel for few-shot learning,,Bence Tilk,,Reject,,
+819,Multi-Advisor Reinforcement Learning,,Romain Laroche;Mehdi Fatemi;Joshua Romoff;Harm van Seijen,,Reject,,
+820,Neural Tree Transducers for Tree to Tree Learning,,João Sedoc;Dean Foster;Lyle Ungar,,Reject,,
+821,Parametric Manifold Learning Via Sparse Multidimensional Scaling,,Gautam Pai;Ronen Talmon;Ron Kimmel,,Reject,,
+822,pix2code: Generating Code from a Graphical User Interface Screenshot,,Tony Beltramelli,,Withdraw,,
+823,Post-training for Deep Learning,,Thomas Moreau;Julien Audiffren,,Reject,,
+824,Siamese Survival Analysis with Competing Risks,,Anton Nemchenko;Kartik Ahuja;Mihaela Van Der Schaar,,Reject,,
+825,Towards Unsupervised Classification with Deep Generative Models,,Dimitris Kalatzis;Konstantia Kotta;Ilias Kalamaras;Anastasios Vafeiadis;Andrew Rawstron;Dimitris Tzovaras;Kostas Stamatopoulos,,Reject,,
+826,Tracking Loss: Converting Object Detector to Robust Visual Tracker,,Zhenbin Yan;Jimmy Ren;Stephen Shaoyi Liao;Kai Yang,,Reject,,
+827,Withdraw,,Liyuan Liu;Jingbo Shang;Xiaotao Gu;Xiang Ren;Jian Peng;Jiawei Han,,Withdraw,,
+828,Adversary A3C for Robust Reinforcement Learning,,Zhaoyuan Gu;Zhenzhong Jia;Howie Choset,,Reject,,
+829,Balanced and Deterministic Weight-sharing Helps Network Performance,,Oscar Chang;Hod Lipson,,Reject,,
+830,Combination of Supervised and Reinforcement Learning For Vision-Based Autonomous Control,,Dmitry Kangin;Nicolas Pugeault,,Reject,,
+831,Convolutional Mesh Autoencoders for 3D Face Representation,,Anurag Ranjan;Timo Bolkart;Michael J. Black,,Reject,,
+832,Discovering Order in Unordered Datasets: Generative Markov Networks,,Yao-Hung Hubert Tsai;Han Zhao;Nebojsa Jojic;Ruslan Salakhutdinov,,Reject,,
+833,Egocentric Spatial Memory Network,,Mengmi Zhang;Keng Teck Ma;Joo Hwee Lim;Shih-Cheng Yen;Qi Zhao;Jiashi Feng,,Reject,,
+834,Evolutionary Expectation Maximization for Generative Models with Binary Latents,,Enrico Guiraud;Jakob Drefs;Joerg Luecke,,Reject,,
+835,Finding ReMO (Related Memory Object): A Simple neural architecture for Text based Reasoning,,Jihyung Moon;Hyochang Yang;Sungzoon Cho,,Reject,,
+836,Generalization of Learning using Reservoir Computing,,Sanjukta Krishnagopal;Yiannis Aloimonos;Michelle Girvan,,Reject,,
+837,Improving Deep Learning by Inverse Square Root Linear Units (ISRLUs),,Brad Carlile;Guy Delamarter;Paul Kinney;Akiko Marti;Brian Whitney,,Reject,,
+838,Learning Document Embeddings With CNNs,,Shunan Zhao;Chundi Lui;Maksims Volkovs,,Reject,,
+839,Lifelong Word Embedding via Meta-Learning,,Hu Xu;Bing Liu;Lei Shu;Philip S. Yu,,Reject,,
+840,Nearest Neighbour Radial Basis Function Solvers for Deep Neural Networks,,Benjamin J. Meyer;Ben Harwood;Tom Drummond,,Reject,,
+841,Neural Networks for irregularly observed continuous-time Stochastic Processes,,Francois W. Belletti;Alexander Ku;Joseph E. Gonzalez,,Reject,,
+842,POLICY DRIVEN GENERATIVE ADVERSARIAL NETWORKS FOR ACCENTED SPEECH GENERATION,,Prannay Khosla;Preethi Jyothi;Vinay P. Namboodiri;Mukundhan Srinivasan,,Reject,,
+843,Relational Multi-Instance Learning for Concept Annotation from Medical Time Series,,Sanjay Purushotham;Zhengping Che;Bo Jiang;Tanachat Nilanon;Yan Liu,,Reject,,
+844,ResBinNet: Residual Binary Neural Network,,Mohammad Ghasemzadeh;Mohammad Samragh;Farinaz Koushanfar,,Reject,,
+845,Taking Apart Autoencoders: How do They Encode Geometric Shapes ?,,Alasdair Newson;Andres Almansa;Yann Gousseau;Said Ladjal,,Reject,,
+846,Unsupervised Adversarial Anomaly Detection using One-Class Support Vector Machines,,Prameesha Sandamal Weerasinghe;Tansu Alpcan;Sarah Monazam Erfani;Christopher Leckie,,Reject,,
+847,Unsupervised Hierarchical Video Prediction,,Nevan Wichers;Dumitru Erhan;Honglak Lee,,Reject,,
+848,VSE++: Improving Visual-Semantic Embeddings with Hard Negatives,,Fartash Faghri;David J. Fleet;Jamie Ryan Kiros;Sanja Fidler,,Withdraw,,
+849,AUTOMATA GUIDED HIERARCHICAL REINFORCEMENT LEARNING FOR ZERO-SHOT SKILL COMPOSITION,,Xiao Li;Yao Ma;Calin Belta,,Reject,,
+850,Continuous Propagation: Layer-Parallel Training,,Michael James;Devansh Arpit;Herman Sahota;Ilya Sharapov,,Withdraw,,
+851,Graph2Seq: Scalable Learning Dynamics for Graphs,,Shaileshh Bojja Venkatakrishnan;Mohammad Alizadeh;Pramod Viswanath,,Reject,,
+852,LatentPoison -- Adversarial Attacks On The Latent Space,,Antonia Creswell;Biswa Sengupta;Anil A. Bharath,,Reject,,
+853,Reward Estimation via State Prediction,,Daiki Kimura;Subhajit Chaudhury;Ryuki Tachibana;Sakyasingha Dasgupta,,Reject,,
+854,Spatial Variational Auto-Encoding via Matrix-Variate Normal Distributions,,Zhengyang Wang;Hao Yuan;Shuiwang Ji,,Withdraw,,
+855,Towards Quantum Inspired Convolution Networks,,Davi Geiger;Zvi Kedem,,Withdraw,,
+856,TCAV: Relative concept importance testing with Linear Concept Activation Vectors,,Been Kim;Justin Gilmer;Martin Wattenberg;Fernanda Viégas,,Reject,,
+857,Adversarial Spheres,,Justin Gilmer;Luke Metz;Fartash Faghri;Sam Schoenholz;Maithra Raghu;Martin Wattenberg;Ian Goodfellow,,Workshop,,
+858,Integrating Episodic Memory into a Reinforcement Learning Agent Using Reservoir Sampling,,Kenny J. Young;Shuo Yang;Richard S. Sutton,,Reject,,
+859,Key Protected Classification for GAN Attack Resilient Collaborative Learning,,Mert Bülent Sarıyıldız;Ramazan Gökberk Cinbiş;Erman Ayday,,Reject,,
+860,On Convergence and Stability of GANs,,Naveen Kodali;James Hays;Jacob Abernethy;Zsolt Kira,,Reject,,
+861,Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates,,Leslie N. Smith;Nicholay Topin,,Reject,,
+862,Adaptive Weight Sparsity for Training Deep Neural Networks,,Michael James;Jack Lindsey;Ilya Sharapov,,Withdraw,,
+863,Alpha-divergence bridges maximum likelihood and reinforcement learning in neural sequence generation,,Sotetsu Koyamada;Yuta Kikuchi;Atsunori Kanemura;Shin-ichi Maeda;Shin Ishii,,Reject,,
+864,Reward Design in Cooperative Multi-agent Reinforcement Learning for Packet Routing,,Hangyu Mao;Zhibo Gong;Zhen Xiao,,Reject,,
+865,The Manifold Assumption and Defenses Against Adversarial Perturbations,,Xi Wu;Uyeong Jang;Lingjiao Chen;Somesh Jha,,Reject,,
+866,Clipping Free Attacks Against Neural Networks,,Boussad ADDAD;Boussad ADDAD,,Reject,,
+867,DETECTING ADVERSARIAL PERTURBATIONS WITH SALIENCY,,Chiliang Zhang;Zuochang Ye;Bo Zhang;Deli Zhao,,Withdraw,,
+868,On Characterizing the Capacity of Neural Networks Using Algebraic Topology,,William H. Guss;Ruslan Salakhutdinov,,Reject,,
+869,An Out-of-the-box Full-network Embedding for Convolutional Neural Networks,,Dario Garcia-Gasulla;Armand Vilalta;Ferran Parés;Jonatan Moreno;Eduard Ayguadé;Jesús Labarta;Ulises Cortés;Toyotaro Suzumura,,Reject,,
+870,Autostacker: an Automatic Evolutionary Hierarchical Machine Learning System,,Boyuan Chen;Warren Mo;Ishanu Chattopadhyay;Hod Lipson,,Reject,,
+871,Empirical Investigation on Model Capacity and Generalization of Neural Networks for Text,,Anonymous,,Withdraw,,
+872,Faster Distributed Synchronous SGD with Weak Synchronization,,Cong Xie;Oluwasanmi O. Koyejo;Indranil Gupta,,Reject,,
+873,Multi-label Learning for Large Text Corpora using Latent Variable Model with Provable Gurantees,,Sayantan Dasgupta,,Reject,,
+874,Simple Nearest Neighbor Policy Method for Continuous Control Tasks,,Elman Mansimov;Kyunghyun Cho,,Reject,,
+875,Bit-Regularized Optimization of Neural Nets,,Mohamed Amer;Aswin Raghavan;Graham W. Taylor;Sek Chai,,Reject,,
+876,Convolutional Normalizing Flows,,Guoqing Zheng;Yiming Yang;Jaime Carbonell,,Reject,,
+877,Dense Transformer Networks,,Jun Li;Yongjun Chen;Lei Cai;Ian Davidson;Shuiwang Ji,,Withdraw,,
+878,Evaluation of generative networks through their data augmentation capacity,,Timothée Lesort;Florian Bordes;Jean-Francois Goudou;David Filliat,,Reject,,
+879,Graph Topological Features via GAN,,Weiyi Liu;Hal Cooper;Min-Hwan Oh,,Reject,,
+880,Maintaining cooperation in complex social dilemmas using deep reinforcement learning,,Alexander Peysakhovich;Adam Lerer,,Reject,,
+881,Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification,,Chong Wang;Xipeng Lan;Yangang Zhang,,Reject,,
+882,Structured Deep Factorization Machine: Towards General-Purpose Architectures,,José P. González-Brenes;Ralph Edezhath,,Reject,,
+883,A Matrix Approximation View of NCE that Justifies Self-Normalization,,Jacob Goldberger;Oren Melamud,,Withdraw,,
+884,AANN: Absolute Artificial Neural Network,,Animesh Karnewar,,Reject,,
+885,DEEP DENSITY NETWORKS AND UNCERTAINTY IN RECOMMENDER SYSTEMS,,Yoel Zeldes;Stavros Theodorakis;Efrat Solodnik;Aviv Rotman;Gil Chamiel;Dan Friedman,,Reject,,
+886,Dependent Bidirectional RNN with Extended-long Short-term Memory,,Yuanhang Su;Yuzhong Huang;C.-C. Jay Kuo,,Reject,,
+887,Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks,,Xu Sun;Bingzhen Wei;Xuancheng Ren;Shuming Ma,,Reject,,
+888,MULTI-MODAL GEOLOCATION ESTIMATION USING DEEP NEURAL NETWORKS,,Jesse Johns;Jeremiah Rounds;Michael Henry,,Withdraw,,
+889,Neural Variational Sparse Topic Model,,Anonymous,,Withdraw,,
+890,One-shot and few-shot learning of word embeddings,,Andrew Kyle Lampinen;James Lloyd McClelland,,Reject,,
+891,Revisiting Knowledge Base Embedding as Tensor Decomposition,,Jiezhong Qiu;Hao Ma;Yuxiao Dong;Kuansan Wang;Jie Tang,,Reject,,
+892,Semi-supervised Outlier Detection using Generative And Adversary Framework,,Jindong Gu;Matthias Schubert;Volker Tresp,,Reject,,
+893,Tree2Tree Learning with Memory Unit,,Ning Miao;Hengliang Wang;Ran Le;Chongyang Tao;Mingyue Shang;Rui Yan;Dongyan Zhao,,Reject,,
+894,Understanding and Exploiting the Low-Rank Structure of Deep Networks,,Craig Bakker;Michael J. Henry;Nathan O. Hodas,,Reject,,
+895,When and where do feed-forward neural networks learn localist representations?,,Ella M. Gale;Nicolas Martin;Jeffrey Bowers,,Reject,,
+896,XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings,,Amelie Royer;Konstantinos Bousmalis;Stephan Gouws;Fred Bertsch;Inbar Mosseri;Forrester Cole;Kevin Murphy,,Reject,,
+897,Learning objects from pixels,,David Saxton,,Reject,,
+898,THE LOCAL DIMENSION OF DEEP MANIFOLD,,Mengxiao Zhang;Wangquan Wu;Yanren Zhang;Kun He;Tao Yu;Huan Long;John E. Hopcroft,,Withdraw,,
+899,Toward predictive machine learning for active vision,,Emmanuel Daucé,,Reject,,
+900,A Self-Organizing Memory Network,,Callie Federer;Joel Zylberberg,,Reject,,
+901,FastNorm: Improving Numerical Stability of Deep Network Training with Efficient Normalization,,Sadhika Malladi;Ilya Sharapov,,Withdraw,,
+902,Interpreting Deep Classification Models With Bayesian Inference,,Hanshu Yan;Jiashi Feng,,Reject,,
+903,Modifying memories in a Recurrent Neural Network Unit,,Vlad Velici;Adam Prügel-Bennett,,Reject,,
+904,Generative Models for Alignment and Data Efficiency in Language,,Dustin Tran;Yura Burda;Ilya Sutskever,,Reject,,
+905,Understanding Deep Learning Generalization by Maximum Entropy,,Guanhua Zheng;Jitao Sang;Changsheng Xu,,Reject,,
+906,Long Term Memory Network for Combinatorial Optimization Problems,,Hazem A. A. Nomer;Abdallah Aboutahoun;Ashraf Elsayed,,Reject,,
+907,Human-like Clustering with Deep Convolutional Neural Networks,,Ali Borji;Aysegul Dundar,,Withdraw,,
+908,Associative Conversation Model: Generating Visual Information from Textual Information,,Yoichi Ishibashi;Hisashi Miyamori,,Reject,,
+909,Improving Search Through A3C Reinforcement Learning Based Conversational Agent,,Milan Aggarwal;Aarushi Arora;Shagun Sodhani;Balaji Krishnamurthy,,Reject,,
+910,Incremental Learning in Deep Convolutional Neural Networks Using Partial Network Sharing,,Syed Shakib Sarwar;Aayush Ankit;Kaushik Roy,,Withdraw,,
+911,Video Action Segmentation with Hybrid Temporal Networks,,Li Ding;Chenliang Xu,,Reject,,
+912,A Deep Predictive Coding Network for Learning Latent Representations,,Shirin Dora;Cyriel Pennartz;Sander Bohte,,Reject,,
+913,A Self-Training Method for Semi-Supervised GANs,,Alan Do-Omri;Dalei Wu;Xiaohua Liu,,Reject,,
+914,An inference-based policy gradient method for learning options,,Matthew J. A. Smith;Herke van Hoof;Joelle Pineau,,Reject,,
+915,Do Convolutional Neural Networks act as Compositional Nearest Neighbors?,,Anonymous,,Withdraw,,
+916,Estimation of cross-lingual news similarities using text-mining methods,,Zhouhao Wang;Enda Liu;Hiroki Sakaji;Tomoki Ito;Kiyoshi Izumi;Kota Tsubouchi;Tatsuo Yamashita,,Reject,,
+917,Learning To Generate Reviews and Discovering Sentiment,,Alec Radford;Rafal Jozefowicz;Ilya Sutskever,,Reject,,
+918,Learning Topics using Semantic Locality,,Ziyi Zhao;Krittaphat Pugdeethosapol;Sheng Lin;Zhe Li;Yanzhi Wang;Qinru Qiu,,Withdraw,,
+919,Parametrizing filters of a CNN with a GAN,,Yannic Kilcher;Gary Becigneul;Thomas Hofmann,,Reject,,
+920,Style Memory: Making a Classifier Network Generative,,Rey Wiyatno;Jeff Orchard,,Reject,,
+921,Autonomous Vehicle Fleet Coordination With Deep Reinforcement Learning,,Cane Punma,,Reject,,
+922,Dense Recurrent Neural Network with Attention Gate,,Yong-Ho Yoo;Kook Han;Sanghyun Cho;Kyoung-Chul Koh;Jong-Hwan Kim,,Reject,,
+923,EXPLORING NEURAL ARCHITECTURE SEARCH FOR LANGUAGE TASKS,,Minh-Thang Luong;David Dohan;Adams Wei Yu;Quoc V. Le;Barret Zoph;Vijay Vasudevan,,Reject,,
+924,Gaussian Prototypical Networks for Few-Shot Learning on Omniglot,,Stanislav Fort,,Reject,,
+925,Generative Discovery of Relational Medical Entity Pairs,,Chenwei Zhang;Yaliang Li;Nan Du;Wei Fan;Philip S. Yu,,Reject,,
+926,Learning with Mental Imagery,,Anonymous,,Withdraw,,
+927,Link Weight Prediction with Node Embeddings,,Yuchen Hou;Lawrence B. Holder,,Reject,,
+928,Noise-Based Regularizers for Recurrent Neural Networks,,Adji B. Dieng;Jaan Altosaar;Rajesh Ranganath;David M. Blei,,Reject,,
+929,On the Construction and Evaluation of Color Invariant Networks,,Konrad Groh,,Reject,,
+930,Preliminary theoretical troubleshooting in Variational Autoencoder,,Shiqi Liu;Qian Zhao;Xiangyong Cao;Deyu Meng;Zilu Ma;Tao Yu,,Reject,,
+931,Soft Value Iteration Networks for Planetary Rover Path Planning,,Max Pflueger;Ali Agha;Gaurav S. Sukhatme,,Reject,,
+932,Sparse Regularized Deep Neural Networks For Efficient Embedded Learning,,Jia Bi,,Reject,,
+933,DNN Model Compression Under Accuracy Constraints,,Soroosh Khoram;Jing Li,,Reject,,
+934,Compact Encoding of Words for Efficient Character-level Convolutional Neural Networks Text Classification,,Wemerson Marinho;Luis Marti;Nayat Sanchez-pi,,Reject,,
+935,ANALYSIS ON GRADIENT PROPAGATION IN BATCH NORMALIZED RESIDUAL NETWORKS,,Abhishek Panigrahi;Yueru Chen;C.-C. Jay Kuo,,Reject,,
+936,Anticipatory Asynchronous Advantage Actor-Critic (A4C): The power of Anticipation in Deep Reinforcement Learning,,Xun Luan;Tharun Medini;Anshumali Shrivastava,,Withdraw,,
+937,Don't encrypt the data; just approximate the model \ Towards Secure Transaction and Fair Pricing of Training Data,,Xinlei Xu,,Reject,,
+938,Tactical Decision Making for Lane Changing with Deep Reinforcement Learning,,Mustafa Mukadam;Akansel Cosgun;Alireza Nakhaei;Kikuo Fujimura,,Withdraw,,
+939,WHAT ARE GANS USEFUL FOR?,,Pablo M. Olmos;Briland Hitaj;Paolo Gasti;Giuseppe Ateniese;Fernando Perez-Cruz,,Reject,,
+940,Comparison of Paragram and GloVe Results for Similarity Benchmarks,,Jakub Dutkiewicz;Czesław Jędrzejek,,Reject,,
+941,Complex- and Real-Valued Neural Network Architectures,,Nils Moenning;Suresh Manandhar,,Withdraw,,
+942,Data-efficient Deep Reinforcement Learning for Dexterous Manipulation,,Ivo Popov;Nicolas Heess;Timothy P. Lillicrap;Roland Hafner;Gabriel Barth-Maron;Matej Vecerik;Thomas Lampe;Tom Erez;Yuval Tassa;Martin Riedmiller,,Reject,,
+943,Distributed non-parametric deep and wide networks,,Biswa Sengupta;Yu Qian,,Reject,,
+944,Lifelong Learning with Output Kernels,,Keerthiram Murugesan;Jaime Carbonell,,Reject,,
+945,Domain Adaptation for Deep Reinforcement Learning in Visually Distinct Games,,Dino S. Ratcliffe;Luca Citi;Sam Devlin;Udo Kruschwitz,,Reject,,
+946,Sequential Coordination of Deep Models for Learning Visual Arithmetic,,Eric Crawford;Guillaume Rabusseau;Joelle Pineau,,Reject,,
+947,TD Learning with Constrained Gradients,,Ishan Durugkar;Peter Stone,,Reject,,
+948,Zero-shot Cross Language Text Classification,,Dan Svenstrup;Jonas Meinertz Hansen;Ole Winther,,Reject,,
+949,Learning to Imagine Manipulation Goals for Robot Task Planning,,Chris Paxton;Kapil Katyal;Christian Rupprecht;Raman Arora;Gregory D Hager,,Withdraw,,
+950,Per-Weight Class-Based Learning Rates via Analytical Continuation,,Michael Rotman;Lior Wolf,,Withdraw,,
+951,Spontaneous Symmetry Breaking in Deep Neural Networks,,Ricky Fok;Aijun An;Xiaogang Wang,,Reject,,
+952,Improved Learning in Convolutional Neural Networks with Shifted Exponential Linear Units (ShELUs),,Anonymous,,Withdraw,,
+953,Clustering with Deep Learning: Taxonomy and New Methods,,Elie Aljalbout;Vladimir Golkov;Yawar Siddiqui;Daniel Cremers,,Reject,,
+954,DOUBLY STOCHASTIC ADVERSARIAL AUTOENCODER,,Mahdi Azarafrooz,,Reject,,
+955,How do deep convolutional neural networks learn from raw audio waveforms?,,Yuan Gong;Christian Poellabauer,,Reject,,
+956,Self-Organization adds application robustness to deep learners,,Pitoyo Hartono;Thomas Trappenberg,,Withdraw,,
+957,A closer look at the word analogy problem,,Siddharth Krishna Kumar,,Reject,,
+958,Contextual memory bandit for pro-active dialog engagement,,julien perez;Tomi Silander,,Reject,,
+959,Improve Training Stability of Semi-supervised Generative Adversarial Networks with Collaborative Training,,Dalei Wu;Xiaohua Liu,,Reject,,
+960,Lung Tumor Location and Identification with AlexNet and a Custom CNN,,Allison M Rossetto;Wenjin Zhou,,Reject,,
+961,On the Generalization Effects of DenseNet Model Structures,,Yin Liu;Vincent Chen,,Reject,,
+962,Recurrent Auto-Encoder Model for Multidimensional Time Series Representation,,Timothy Wong;Zhiyuan Luo,,Reject,,
+963,Simple Fast Convolutional Feature Learning,,David Macêdo;Cleber Zanchettin;Teresa Ludermir,,Reject,,
+964,Learning to play slot cars and Atari 2600 games in just minutes,,Lionel Cordesses;Omar Bentahar;Julien Page,,Reject,,
+965,Exploring Sentence Vectors Through Automatic Summarization,,Adly Templeton;Jugal Kalita,,Reject,,
+966,Iterative temporal differencing with fixed random feedback alignment support spike-time dependent plasticity in vanilla backpropagation for deep learning,,Aras Dargazany;Kunal Mankodiya,,Reject,,
+967,Demystifying overcomplete nonlinear auto-encoders: fast SGD convergence towards sparse representation from random initialization,,Cheng Tang;Claire Monteleoni,,Reject,,
+968,TOWARDS ROBOT VISION MODULE DEVELOPMENT WITH EXPERIENTIAL ROBOT LEARNING,,Ahmed A Aly;Joanne Bechta Dugan,,Reject,,
+969,APPLICATION OF DEEP CONVOLUTIONAL NEURAL NETWORK TO PREVENT ATM FRAUD BY FACIAL DISGUISE IDENTIFICATION,,Suraj Nandkishor Kothawade;Sumit Baburao Tamgale,,Reject,,
+970,A novel method to determine the number of latent dimensions with SVD,,Asana Neishabouri;Michel Desmarais,,Reject,,
+971,ENRICHMENT OF FEATURES FOR CLASSIFICATION USING AN OPTIMIZED LINEAR/NON-LINEAR COMBINATION OF INPUT FEATURES,,Mehran Taghipour-Gorjikolaie;Seyyed Mohammad Razavi;Javad Sadri,,Reject,,
+972,Automatic Measurement on Etched Structure in Semiconductor Using Deep Learning Approach,,Anonymous,,Withdraw,,
+973,Binarized Back-Propagation: Training Binarized Neural Networks with Binarized Gradients,,Itay Hubara;Elad Hoffer;Daniel Soudy,,Withdraw,,
+974,Causal Generative Neural Networks,,Olivier Goudet;Diviyan Kalainathan;David Lopez-Paz;Philippe Caillou;Isabelle Guyon;Michèle Sebag,,Reject,,
+975,Confidence Scoring Using Whitebox Meta-models with Linear Classifier Probes,,Anonymous,,Active,,
+976,Curiosity-driven Exploration by Bootstrapping Features,,Harri Edwards;Yuri Burda;Amos Storkey,,Withdraw,,
+977,DEEPCAST : UNIVERSAL TIME-SERIES FORECASTER,,Nikolay Laptev;Jiafan Yu;Ram Rajagopal,,Withdraw,,
+978,Discrete Wasserstein Generative Adversarial Networks (DWGAN),,Rizal Fathony;Naveen Goela,,Withdraw,,
+979,Distributed Restarting NewtonCG Method for Large-Scale Empirical Risk Minimization,,Majid Jahani;Xi He;Chenxin Ma;Dheevatsa Mudigere;Aryan Mokhtari;Alejandro Ribeiro;Martin Takac,,Withdraw,,
+980,Embedding Deep Networks into Visual Explanations,,Zhongang Qi;Fuxin Li,,Withdraw,,
+981,Language Style Transfer from Non-Parallel Text with Arbitrary Styles,,Yanpeng Zhao;Victoria W. Bi;Deng Cai;Xiaojiang Liu;Kewei Tu;Shuming Shi,,Withdraw,,
+982,Learning a set of interrelated tasks by using a succession of motor policies for a socially guided intrinsically motivated learner,,Nicolas Duminy;Sao Mai Nguyen;Dominique Duhaut,,Withdraw,,
+983,Learning Audio Features for Singer Identification and Embedding,,Cheng-i Wang;George Tzanetakis,,Withdraw,,
+984,Multitask learning of Multilingual Sentence Representations,,Karan Singla;Dogan Can;Shrikanth Narayanan,,Withdraw,,
+985,Overview on Reinforcement Learning for Robotics,,Anonymous,,Withdraw,,
+986,Placeholder,,Chongyang Tao;Shen Gao;Mingyue Shang;Rui Yan;Dongyan Zhao,,Withdraw,,
+987,Pseudo sequence based deep neural network compression,,Anonymous,,Withdraw,,
+988,Semi-supervised Regression with Generative Adversarial Networks for End to End Learning in Autonomous Driving,,Mehdi Rezagholizadeh;Md Akmal Haidar,,Withdraw,,
+989,The Multilinear Structure of ReLU Networks,,Thomas Laurent;James von Brecht,,Withdraw,,
+990,THINK VISUALLY: QUESTION ANSWERING THROUGH VIRTUAL IMAGERY,,Anonymous,,Active,,
+991,title,,authors,,Withdraw,,
+992,Word Mover's Embedding: From Word2Vec to Document Embedding,,Anonymous,,Active,,
